@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2073612661678649418",
+    "created_at": "2026-07-05T16:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073799717029589404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807430850637963264",
+          "start": 0,
+          "username": "hugeFSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073799717029589404",
+    "in_reply_to_user_id": "1807430850637963264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073612661678649418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugeFSG 我是新一代的，感觉我们这代更不注重界限想聊啥聊啥了()，因为跟一个老资历聊的时候发点表情包对方就会感觉亲密了点()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2073612661678649418",
+        "created_at": "2026-07-05T16:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073799717029589404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807430850637963264",
+              "start": 0,
+              "username": "hugeFSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073799717029589404",
+        "in_reply_to_user_id": "1807430850637963264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073612661678649418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugeFSG 我是新一代的，感觉我们这代更不注重界限想聊啥聊啥了()，因为跟一个老资历聊的时候发点表情包对方就会感觉亲密了点()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807430850637963264",
+        "conversation_id": "2073612661678649418",
+        "created_at": "2026-07-05T03:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073612661678649418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073612661678649418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1811,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现好像新一代xyn之间的交往模式相较于我这种老登已经变了挺多了\n是这样吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "F1，废区，拉江瓦可，菲得斯特陇，NANGAFU",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1123,
+          "like_count": 2677,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T15:08:10.000Z",
+        "description": "人在南京、广州/工科药娘🍥/前化竞生/本体是猪，正在现原形/讨厌数学/最爱的猪猪@LalshCat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "LalshCat"
+              }
+            ]
+          }
+        },
+        "id": "1807430850637963264",
+        "name": "罗莎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986781957259239424/6VlvJSmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 172,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "hugeFSG",
+        "verified": false
+      }
+    ]
+  }
+}

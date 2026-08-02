@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2012109099396399314",
+    "created_at": "2026-01-16T10:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012111286574997550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012084763184730112",
+          "start": 0,
+          "username": "hrtmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012111286574997550",
+    "in_reply_to_user_id": "2012084763184730112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012109099396399314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hrtmeng 来啦来啦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2012109099396399314",
+        "created_at": "2026-01-16T10:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012111286574997550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012084763184730112",
+              "start": 0,
+              "username": "hrtmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012111286574997550",
+        "in_reply_to_user_id": "2012084763184730112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012109099396399314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hrtmeng 来啦来啦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012084763184730112",
+        "conversation_id": "2012109099396399314",
+        "created_at": "2026-01-16T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012109099396399314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "2012084763184730112",
+              "start": 53,
+              "username": "hrtmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012109099396399314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前1w5关注的X号用不了，现在只能重新起步。\n大家收到以后，希望您可以在X上发个糖果图片并且圈我们一下 @hrtmeng \n我们会为您返现5元，并且下次再来会给您10块钱的无门槛优惠\n谢谢亲啦~☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\n11年的药药|无心理疾病|不割手手不涩涩|175cm(有点高好烦恼)|60kg|梦想是有吃不完的糖和一台电脑|有点社恐|INFP|爱玩游戏|\n平时会发一些日常和游戏之类的捏，偶尔女装。新手药药还有一些不太懂的地方希望有姐姐传授经验捏~\n跨跨帮跨跨，有问题可发邮件至3810725172@qq.com哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorW6hu"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 54,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/69aJorW6hu",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T08:49:36.000Z",
+        "description": "🍬🏪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mengmeng715",
+                "end": 23,
+                "expanded_url": "https://t.me/mengmeng715",
+                "start": 0,
+                "url": "https://t.co/SnSrDRw7oA"
+              }
+            ]
+          }
+        },
+        "id": "2012084763184730112",
+        "location": "🍬🏪",
+        "name": "檬檬🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012084977144586240/7YTk0_Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/SnSrDRw7oA",
+        "username": "hrtmeng",
+        "verified": false
+      }
+    ]
+  }
+}

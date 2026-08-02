@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2046377839205978404",
+    "created_at": "2026-04-20T23:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046377839205978404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/using_YueCheng…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/using_YueCheng/status/1900401348275036673",
+          "start": 13,
+          "url": "https://t.co/7FA74tap7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046377839205978404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900401348275036673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对呢压床我也出来过() https://t.co/7FA74tap7W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2046377839205978404",
+        "created_at": "2026-04-20T23:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046377839205978404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/using_YueCheng…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/using_YueCheng/status/1900401348275036673",
+              "start": 13,
+              "url": "https://t.co/7FA74tap7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046377839205978404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900401348275036673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对呢压床我也出来过() https://t.co/7FA74tap7W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496714588918026242",
+        "conversation_id": "1900288989275578494",
+        "created_at": "2025-03-14T04:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T05:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900401348275036673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900401348275036673",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 91341,
+          "like_count": 350,
+          "quote_count": 21,
+          "reply_count": 110,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900288989275578494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 强调一点，要是压床的话，你这辈子就完了，肯定会变成我这种药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.chinadlrs.com/?id=0",
+                "end": 23,
+                "expanded_url": "https://m.chinadlrs.com/?id=0",
+                "start": 0,
+                "url": "https://t.co/qfiD1C9uNS"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 453,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/qfiD1C9uNS",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "社畜💊娘 | hrt 2023-9-3 | 笨蛋后端程序员 | 超绝上班中",
+        "id": "1496714588918026242",
+        "location": "死信队列",
+        "name": "橘子喵🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021983581250453504/5oe_iDxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 819,
+          "like_count": 12774,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 4736
+        },
+        "username": "using_YueCheng",
+        "verified": false
+      }
+    ]
+  }
+}

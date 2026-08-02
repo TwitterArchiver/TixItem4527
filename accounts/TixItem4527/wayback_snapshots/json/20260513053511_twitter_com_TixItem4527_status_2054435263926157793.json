@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2054435263926157793",
+    "created_at": "2026-05-13T05:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054435263926157793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1369955480026505217",
+          "start": 3,
+          "username": "mementomori_boi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054435263926157793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054109413968154646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mementomori_boi: 【キャラ紹介】イディーネ\nデルラの小さな町で、花を育ていた少女。\n品種改良が盛んな町で、イディーネは友達と共に花を育てていた。\n花の面倒をしながら、友達と笑い合う日々。\nそんな日常は、イディーネの身体に咲く花に似た異物によって一変する。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2054109407064231936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGpn2HaEAATZt8.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2054435263926157793",
+        "created_at": "2026-05-13T05:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054435263926157793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1369955480026505217",
+              "start": 3,
+              "username": "mementomori_boi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054435263926157793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054109413968154646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mementomori_boi: 【キャラ紹介】イディーネ\nデルラの小さな町で、花を育ていた少女。\n品種改良が盛んな町で、イディーネは友達と共に花を育てていた。\n花の面倒をしながら、友達と笑い合う日々。\nそんな日常は、イディーネの身体に咲く花に似た異物によって一変する。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054109407064231936"
+          ]
+        },
+        "author_id": "1369955480026505217",
+        "conversation_id": "2054109413968154646",
+        "created_at": "2026-05-12T08:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054109413968154646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "中林新夏"
+            },
+            {
+              "end": 139,
+              "start": 137,
+              "tag": "絹"
+            },
+            {
+              "end": 148,
+              "start": 141,
+              "tag": "メメントモリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFro0yS66s",
+              "end": 172,
+              "expanded_url": "https://x.com/mementomori_boi/status/2054109413968154646/photo/1",
+              "media_key": "3_2054109407064231936",
+              "start": 149,
+              "url": "https://t.co/uFro0yS66s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054109413968154646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 45836,
+          "like_count": 813,
+          "quote_count": 24,
+          "reply_count": 5,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "【キャラ紹介】イディーネ\nデルラの小さな町で、花を育ていた少女。\n品種改良が盛んな町で、イディーネは友達と共に花を育てていた。\n花の面倒をしながら、友達と笑い合う日々。\nそんな日常は、イディーネの身体に咲く花に似た異物によって一変する。\n\nCV #中林新夏\nSong by #絹\n\n＃メメントモリ https://t.co/uFro0yS66s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注-同类互fo\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 519,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T10:17:59.000Z",
+        "description": "⭐️3.5周年キャンペーン⭐️最大100連ガチャ無料実施中！スマホ/PC向けRPG「メメントモリ」公式Xアカウントです⭐DLはこちら⭐ ▶https://t.co/A792mgFfYj ⭐ゲームに関するお問い合わせはこちら⭐ ▶support@mememori-game.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mementomori.onelink.me/rnkf/l433p473",
+                "end": 92,
+                "expanded_url": "http://mementomori.onelink.me/rnkf/l433p473",
+                "start": 69,
+                "url": "https://t.co/A792mgFfYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mememori-game.com",
+                "end": 23,
+                "expanded_url": "https://mememori-game.com/",
+                "start": 0,
+                "url": "https://t.co/3Pm21i0xan"
+              }
+            ]
+          }
+        },
+        "id": "1369955480026505217",
+        "location": "東京都新宿区",
+        "name": "【3.5周年記念】メメントモリ公式",
+        "pinned_tweet_id": "2049754167779144040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625049705117024257/FuScbiiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345163,
+          "following_count": 194,
+          "like_count": 1254,
+          "listed_count": 754,
+          "media_count": 2386,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/3Pm21i0xan",
+        "username": "mementomori_boi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2069005777436819816",
+    "created_at": "2026-06-23T07:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069317935831888139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955256576370999296",
+          "start": 0,
+          "username": "lhz47325415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069317935831888139",
+    "in_reply_to_user_id": "1955256576370999296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069297360778473614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhz47325415 生辰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2069005777436819816",
+        "created_at": "2026-06-23T07:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069317935831888139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955256576370999296",
+              "start": 0,
+              "username": "lhz47325415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069317935831888139",
+        "in_reply_to_user_id": "1955256576370999296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069297360778473614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhz47325415 生辰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955256576370999296",
+        "conversation_id": "2069005777436819816",
+        "created_at": "2026-06-23T05:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069297360778473614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069297360778473614",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069005777436819816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 这是什么 app 啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 798,
+          "like_count": 1975,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T13:14:38.000Z",
+        "description": "郑州第四高级中学附属学校纯出生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzszedu.cn",
+                "end": 23,
+                "expanded_url": "https://www.zzszedu.cn/",
+                "start": 0,
+                "url": "https://t.co/4I2vp1kBwj"
+              }
+            ]
+          }
+        },
+        "id": "1955256576370999296",
+        "location": "枫丹白露",
+        "name": "李同生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955256935076282369/quZrkR0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 152,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/4I2vp1kBwj",
+        "username": "lhz47325415",
+        "verified": false
+      }
+    ]
+  }
+}

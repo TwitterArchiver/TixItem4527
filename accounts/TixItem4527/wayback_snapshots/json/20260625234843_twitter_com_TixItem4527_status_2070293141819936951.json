@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2070025054877077959",
+    "created_at": "2026-06-25T23:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070293141819936951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796471454839816192",
+          "start": 0,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070293141819936951",
+    "in_reply_to_user_id": "1796471454839816192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070025054877077959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyilingyi 好看诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2070025044420624384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo0z3jagAA_9hH.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2070025054877077959",
+        "created_at": "2026-06-25T23:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070293141819936951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796471454839816192",
+              "start": 0,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070293141819936951",
+        "in_reply_to_user_id": "1796471454839816192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070025054877077959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyilingyi 好看诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070025044420624384"
+          ]
+        },
+        "author_id": "1796471454839816192",
+        "conversation_id": "2070025054877077959",
+        "created_at": "2026-06-25T06:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070025054877077959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCBMBtAhNf",
+              "end": 27,
+              "expanded_url": "https://x.com/yuanyilingyi/status/2070025054877077959/photo/1",
+              "media_key": "3_2070025044420624384",
+              "start": 4,
+              "url": "https://t.co/qCBMBtAhNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070025054877077959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1191,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹系 https://t.co/qCBMBtAhNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 824,
+          "like_count": 2031,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "朝雾绫澜｜本人已成年，无不良引导｜含糖｜清水日常推｜同类可互fo｜转生版｜喜欢一切可爱的事物",
+        "id": "1796471454839816192",
+        "location": "距离你1米",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2069062232521220222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 256,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false
+      }
+    ]
+  }
+}

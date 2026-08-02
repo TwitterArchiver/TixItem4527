@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2054371951309988049",
+    "created_at": "2026-05-13T04:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T05:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054420723318636987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969945327567581184",
+          "start": 0,
+          "username": "caswerlebel05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054420723318636987",
+    "in_reply_to_user_id": "1969945327567581184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054371951309988049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caswerlebel05 雷霆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2054371948965376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKYZy6bsAAaXXh.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2054371951309988049",
+        "created_at": "2026-05-13T04:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054420723318636987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969945327567581184",
+              "start": 0,
+              "username": "caswerlebel05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054420723318636987",
+        "in_reply_to_user_id": "1969945327567581184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054371951309988049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caswerlebel05 雷霆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054371948965376000"
+          ]
+        },
+        "author_id": "1969945327567581184",
+        "conversation_id": "2054371951309988049",
+        "created_at": "2026-05-13T01:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054371951309988049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1SM7PCeYh",
+              "end": 23,
+              "expanded_url": "https://x.com/caswerlebel05/status/2054371951309988049/photo/1",
+              "media_key": "3_2054371948965376000",
+              "start": 0,
+              "url": "https://t.co/U1SM7PCeYh"
+            },
+            {
+              "display_url": "x.com/TixItem4527/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/TixItem4527/status/2053799144725356772",
+              "start": 24,
+              "url": "https://t.co/nSjL10kIfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054371951309988049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053799144725356772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/U1SM7PCeYh https://t.co/nSjL10kIfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~同互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/yojrEEdLDB"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 514,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/yojrEEdLDB",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T02:02:36.000Z",
+        "description": "他日若能窺孟子 終身何敢望韓公\n#王安石 #明日香",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "王安石"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "明日香"
+              }
+            ]
+          }
+        },
+        "id": "1969945327567581184",
+        "location": "中华人民共和国江西省抚州市临川区青云街道赣东大道1085号",
+        "name": "V.Vans•獾郎🦡",
+        "pinned_tweet_id": "2030226981133152257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038626362114936832/_vYHwoi0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 549,
+          "like_count": 27584,
+          "listed_count": 2,
+          "media_count": 1278,
+          "tweet_count": 7902
+        },
+        "username": "caswerlebel05",
+        "verified": false
+      }
+    ]
+  }
+}

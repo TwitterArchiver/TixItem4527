@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2082649834532782412",
+    "created_at": "2026-07-30T02:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082656175880065235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842497337362612224",
+          "start": 0,
+          "username": "asd6368995359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082656175880065235",
+    "in_reply_to_user_id": "1842497337362612224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082655267377037607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asd6368995359 感谢姐妹❤️❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2082655243352133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcT6NGb0AACjSx.png",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2082649834532782412",
+        "created_at": "2026-07-30T02:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082656175880065235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842497337362612224",
+              "start": 0,
+              "username": "asd6368995359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082656175880065235",
+        "in_reply_to_user_id": "1842497337362612224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082655267377037607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asd6368995359 感谢姐妹❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082655243352133632"
+          ]
+        },
+        "author_id": "1842497337362612224",
+        "conversation_id": "2082649834532782412",
+        "created_at": "2026-07-30T02:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082655267377037607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8H1qzzzOt",
+              "end": 39,
+              "expanded_url": "https://x.com/asd6368995359/status/2082655267377037607/photo/1",
+              "media_key": "3_2082655243352133632",
+              "start": 16,
+              "url": "https://t.co/Y8H1qzzzOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082655267377037607",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082649834532782412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 喵。 https://t.co/Y8H1qzzzOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1274,
+          "like_count": 3648,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:31:09.000Z",
+        "description": "地下党|hrt:2026.05.15|172cm.63kg|\n没有心理疾病(应该是愈了吧)|性格内向|\n想找对象/主",
+        "id": "1842497337362612224",
+        "name": "雲🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081402863352246272/cOV2U613_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 35,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "asd6368995359",
+        "verified": false
+      }
+    ]
+  }
+}

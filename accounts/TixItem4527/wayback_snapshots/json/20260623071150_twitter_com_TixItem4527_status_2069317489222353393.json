@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2069012960996135290",
+    "created_at": "2026-06-23T07:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069317489222353393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2061329105266831360",
+          "start": 0,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069317489222353393",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069012960996135290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangion73 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069012950774640640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLacUQ6a8AAzV-B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069012950611079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLacUQTbMAA9Y40.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2069012960996135290",
+        "created_at": "2026-06-23T07:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069317489222353393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069317489222353393",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069012960996135290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069012950774640640",
+            "3_2069012950611079168"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2069012960996135290",
+        "created_at": "2026-06-22T11:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069012960996135290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHTasUtSIH",
+              "end": 76,
+              "expanded_url": "https://x.com/yangion73/status/2069012960996135290/photo/1",
+              "media_key": "3_2069012950774640640",
+              "start": 53,
+              "url": "https://t.co/aHTasUtSIH"
+            },
+            {
+              "display_url": "pic.x.com/aHTasUtSIH",
+              "end": 76,
+              "expanded_url": "https://x.com/yangion73/status/2069012960996135290/photo/1",
+              "media_key": "3_2069012950611079168",
+              "start": 53,
+              "url": "https://t.co/aHTasUtSIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069012960996135290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1449,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚又发狂了，一直哭，咬自己，两个护士上来就摁住我，强行投喂一颗阿普😞\np1 是咬的，p2 是用东西刮的 https://t.co/aHTasUtSIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 796,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n 欢迎互 fo 呀\n想找人聊天 ...\nQ：3323129126",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 98,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

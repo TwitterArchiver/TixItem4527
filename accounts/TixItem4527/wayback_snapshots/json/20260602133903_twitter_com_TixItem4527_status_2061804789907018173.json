@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2061075076850803066",
+    "created_at": "2026-06-02T13:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061804789907018173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        },
+        {
+          "end": 20,
+          "id": "971003340602486784",
+          "start": 12,
+          "username": "Ixoryss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061804789907018173",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061085610132324702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue @Ixoryss 谢谢教导喵😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2061075076850803066",
+        "created_at": "2026-06-02T13:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061804789907018173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            },
+            {
+              "end": 20,
+              "id": "971003340602486784",
+              "start": 12,
+              "username": "Ixoryss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061804789907018173",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061085610132324702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue @Ixoryss 谢谢教导喵😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2061075076850803066",
+        "created_at": "2026-05-31T14:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061085610132324702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            },
+            {
+              "end": 21,
+              "id": "1708446662514110464",
+              "start": 9,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061085610132324702",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061084261458006463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss @TixItem4527 我其实每次出现这个状况我都会蹲下去缓一下再慢慢起来，昨天真的是昏的不行，醒过来的时候还反应了十秒才清楚什么状况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 628,
+          "like_count": 1629,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2026.5开启hrt/持证含糖MtF/持续羡慕年轻小药娘/1997年老登",
+        "id": "1838866598427549696",
+        "name": "云梦玥🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 184,
+          "like_count": 601,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 415
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "硬件/嵌入式开发/摄影/产品工作室 | 苏州｜ Sister: @CelestialSayuki | \nnot a cat.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "CelestialSayuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixoryss2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixoryss2",
+                "start": 0,
+                "url": "https://t.co/7iiCUgGvNv"
+              }
+            ]
+          }
+        },
+        "id": "971003340602486784",
+        "location": "Dusk-Kissed TrES-2b, Cygnus",
+        "name": "镜涟",
+        "pinned_tweet_id": "2017629909221605473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862643762102272/_mIwOzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 309,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/7iiCUgGvNv",
+        "username": "Ixoryss",
+        "verified": false
+      }
+    ]
+  }
+}

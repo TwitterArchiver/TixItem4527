@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026620609778823169",
+        "3_2026620610772873220",
+        "3_2026620610252779522"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2026620617668309189",
+    "created_at": "2026-02-25T11:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T12:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026620617668309189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mAfYe5fG2g",
+          "end": 30,
+          "expanded_url": "https://x.com/TixItem4527/status/2026620617668309189/photo/1",
+          "media_key": "3_2026620609778823169",
+          "start": 7,
+          "url": "https://t.co/mAfYe5fG2g"
+        },
+        {
+          "display_url": "pic.x.com/mAfYe5fG2g",
+          "end": 30,
+          "expanded_url": "https://x.com/TixItem4527/status/2026620617668309189/photo/1",
+          "media_key": "3_2026620610772873220",
+          "start": 7,
+          "url": "https://t.co/mAfYe5fG2g"
+        },
+        {
+          "display_url": "pic.x.com/mAfYe5fG2g",
+          "end": 30,
+          "expanded_url": "https://x.com/TixItem4527/status/2026620617668309189/photo/1",
+          "media_key": "3_2026620610252779522",
+          "start": 7,
+          "url": "https://t.co/mAfYe5fG2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026620617668309189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的糖糖哦~ https://t.co/mAfYe5fG2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2026620609778823169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAAtQRaMAEGGxL.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026620610772873220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAAtT-aMAQHJt3.jpg",
+        "width": 1155
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2026620610252779522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAAtSCaMAIipSU.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026620609778823169",
+            "3_2026620610772873220",
+            "3_2026620610252779522"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2026620617668309189",
+        "created_at": "2026-02-25T11:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026620617668309189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAfYe5fG2g",
+              "end": 30,
+              "expanded_url": "https://x.com/TixItem4527/status/2026620617668309189/photo/1",
+              "media_key": "3_2026620609778823169",
+              "start": 7,
+              "url": "https://t.co/mAfYe5fG2g"
+            },
+            {
+              "display_url": "pic.x.com/mAfYe5fG2g",
+              "end": 30,
+              "expanded_url": "https://x.com/TixItem4527/status/2026620617668309189/photo/1",
+              "media_key": "3_2026620610772873220",
+              "start": 7,
+              "url": "https://t.co/mAfYe5fG2g"
+            },
+            {
+              "display_url": "pic.x.com/mAfYe5fG2g",
+              "end": 30,
+              "expanded_url": "https://x.com/TixItem4527/status/2026620617668309189/photo/1",
+              "media_key": "3_2026620610252779522",
+              "start": 7,
+              "url": "https://t.co/mAfYe5fG2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026620617668309189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的糖糖哦~ https://t.co/mAfYe5fG2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|11.03.25发生在世界|无心理疾病|不割手手不涩涩|176cm(有点高好烦恼)|60kg|梦想是有吃不完的糖和一台电脑|有点社恐|INFP|爱玩游戏|\n平时会发一些日常和游戏之类的捏，偶尔女装。\n跨跨帮跨跨，有问题可发邮件至430830097@qq.com哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorWE72"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/69aJorWE72",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

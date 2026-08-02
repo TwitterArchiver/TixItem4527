@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2044815242010742828",
+    "created_at": "2026-04-17T05:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045019111261139140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994685146092769284",
+          "start": 0,
+          "username": "Georgeanne35433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045019111261139140",
+    "in_reply_to_user_id": "1994685146092769284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044923820793094366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Georgeanne35433 贴贴嗷~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2044815242010742828",
+        "created_at": "2026-04-17T05:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045019111261139140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994685146092769284",
+              "start": 0,
+              "username": "Georgeanne35433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045019111261139140",
+        "in_reply_to_user_id": "1994685146092769284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044923820793094366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Georgeanne35433 贴贴嗷~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994685146092769284",
+        "conversation_id": "2044815242010742828",
+        "created_at": "2026-04-16T23:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T00:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044923820793094366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044923820793094366",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044815242010742828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 喵呜，贴贴喵❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingju.org/2189.html",
+                "end": 23,
+                "expanded_url": "https://www.qingju.org/2189.html",
+                "start": 0,
+                "url": "https://t.co/KFqXBf579u"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 403,
+          "like_count": 907,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/KFqXBf579u",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T08:29:45.000Z",
+        "description": "🇨🇳/06/前日语生/mtf/无证含🍥/hrt 2026.3.16/伪声当本音用/军事狙击/wargame/跨圈骂街第一人\n※暂时不接线下\n※不回私信\n★不要在我评论区没事找事，有问题好好说，我对正常人很温柔，但你要犯贱我绝不惯着，别等我开团了又骂不过就哭着拉黑我\n◎活着才能在将来知道为什么要活着。",
+        "id": "1994685146092769284",
+        "name": "ayuki_atsuko🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2036384167915823519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030892145595588610/YaV3S0Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 309,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 483
+        },
+        "username": "Georgeanne35433",
+        "verified": false
+      }
+    ]
+  }
+}

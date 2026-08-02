@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2082649834532782412",
+    "created_at": "2026-07-31T00:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082985012430024812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854091917338021888",
+          "start": 0,
+          "username": "ZLINK243424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082985012430024812",
+    "in_reply_to_user_id": "1854091917338021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082686104659165626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZLINK243424 感谢🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2082685993547976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcv4Ggb0AAL84S.jpg",
+        "width": 1912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2082649834532782412",
+        "created_at": "2026-07-31T00:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082985012430024812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854091917338021888",
+              "start": 0,
+              "username": "ZLINK243424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082985012430024812",
+        "in_reply_to_user_id": "1854091917338021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082686104659165626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZLINK243424 感谢🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082685993547976704"
+          ]
+        },
+        "author_id": "1854091917338021888",
+        "conversation_id": "2082649834532782412",
+        "created_at": "2026-07-30T04:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082686104659165626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MrtSm2IfqI",
+              "end": 38,
+              "expanded_url": "https://x.com/ZLINK243424/status/2082686104659165626/photo/1",
+              "media_key": "3_2082685993547976704",
+              "start": 15,
+              "url": "https://t.co/MrtSm2IfqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082686104659165626",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082649834532782412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 👌 https://t.co/MrtSm2IfqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 1273,
+          "like_count": 3657,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:22:40.000Z",
+        "description": "Battlefield严重中毒/ボカロ重度依赖/自殺未遂/废宅/角落里的垃圾人/讨厌社交/08男/泛性恋/LGBTQIA＋友好/成分复杂/可以叫我Zero/让您不爽真是非常抱歉\n\n私たちは光芒と深宇宙のなかで神を見た，\n我们在泛光和深空中看见了神，\n私たちは公式と真理のなかで 神を殺した，\n我们在公式和真理中杀死了神。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/expcal…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/expcalibur0000.bsky.social",
+                "start": 0,
+                "url": "https://t.co/TNTSIx9k3b"
+              }
+            ]
+          }
+        },
+        "id": "1854091917338021888",
+        "location": "南极洲",
+        "name": "可悲的Zeroくん:⁠-⁠P",
+        "pinned_tweet_id": "2063303274376347919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058720971872403456/NDILyBIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 444,
+          "like_count": 37751,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 7583
+        },
+        "url": "https://t.co/TNTSIx9k3b",
+        "username": "ZLINK243424",
+        "verified": false
+      }
+    ]
+  }
+}

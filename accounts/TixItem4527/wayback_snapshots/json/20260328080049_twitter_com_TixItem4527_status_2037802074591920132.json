@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2037802074591920132",
+    "created_at": "2026-03-28T08:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037802074591920132"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037802074591920132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求有过这种经历的同类姐姐传授经验，为中考完的外出做准备\n条件:手机*1+一张随时可能被停的电话卡；可能不超过100RMB的现金；所剩无几仅可支撑几天的雌激素药物与抗雄激素药物；\n这种艰难的开局条件我该怎么度过初始阶段"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2037802074591920132",
+        "created_at": "2026-03-28T08:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037802074591920132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037802074591920132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求有过这种经历的同类姐姐传授经验，为中考完的外出做准备\n条件:手机*1+一张随时可能被停的电话卡；可能不超过100RMB的现金；所剩无几仅可支撑几天的雌激素药物与抗雄激素药物；\n这种艰难的开局条件我该怎么度过初始阶段"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|2011.03.25出现!|快15岁了喵|无心理疾病|不割手手|174cm(有点高烦恼)|60kg|有点社恐|INFP|\n无人在意的失败的账号🏳️‍⚧🍥\n跨跨帮跨跨，有问题可发邮件至430830097@qq.com哦\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorWE72"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 325,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/69aJorWE72",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2070528069069361374",
+    "created_at": "2026-06-26T15:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070528069069361374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649365408779214848",
+          "start": 3,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070528069069361374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070418963725799476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bolckAshley: 我是真的覺得\n那些在原生家庭裡得不到理想化的愛和理解的人\n太容易挨🌿了\n只要有人認真聽你說話\n在適當的時間給你一個溫暖的擁抱\n在你難過的時候擦掉你的眼淚\n再時不時地誇一下你\n那完了，百分百挨🌿還是心甘情願被🌿\n\n*唉其實我就算一個例子吧（ ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070418943026909184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLubDyNb0AAW1kH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2070528069069361374",
+        "created_at": "2026-06-26T15:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070528069069361374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649365408779214848",
+              "start": 3,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070528069069361374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070418963725799476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bolckAshley: 我是真的覺得\n那些在原生家庭裡得不到理想化的愛和理解的人\n太容易挨🌿了\n只要有人認真聽你說話\n在適當的時間給你一個溫暖的擁抱\n在你難過的時候擦掉你的眼淚\n再時不時地誇一下你\n那完了，百分百挨🌿還是心甘情願被🌿\n\n*唉其實我就算一個例子吧（ ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070418943026909184"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2070418963725799476",
+        "created_at": "2026-06-26T08:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070418963725799476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bszSHfnHlF",
+              "end": 143,
+              "expanded_url": "https://x.com/bolckAshley/status/2070418963725799476/photo/1",
+              "media_key": "3_2070418943026909184",
+              "start": 120,
+              "url": "https://t.co/bszSHfnHlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070418963725799476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1268,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的覺得\n那些在原生家庭裡得不到理想化的愛和理解的人\n太容易挨🌿了\n只要有人認真聽你說話\n在適當的時間給你一個溫暖的擁抱\n在你難過的時候擦掉你的眼淚\n再時不時地誇一下你\n那完了，百分百挨🌿還是心甘情願被🌿\n\n*唉其實我就算一個例子吧（ https://t.co/bszSHfnHlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 842,
+          "like_count": 2088,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 2232,
+          "like_count": 42787,
+          "listed_count": 28,
+          "media_count": 1750,
+          "tweet_count": 22993
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      }
+    ]
+  }
+}

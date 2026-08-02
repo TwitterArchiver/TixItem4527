@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073388203323920384"
+      ],
+      "media_source_tweet_id": [
+        "2073388352771105012"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2073832702617530700",
+    "created_at": "2026-07-05T18:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073832702617530700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994060768099356676",
+          "start": 3,
+          "username": "pingqimuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zUubmukYKy",
+          "end": 53,
+          "expanded_url": "https://x.com/pingqimuo/status/2073388352771105012/photo/1",
+          "media_key": "3_2073388203323920384",
+          "start": 30,
+          "url": "https://t.co/zUubmukYKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073832702617530700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073388352771105012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pingqimuo: 怎么办，要秋秋要跟川哥进去吗 https://t.co/zUubmukYKy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2073388203323920384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYnleybkAAmunH.png",
+        "width": 443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073388203323920384"
+          ],
+          "media_source_tweet_id": [
+            "2073388352771105012"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2073832702617530700",
+        "created_at": "2026-07-05T18:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073832702617530700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994060768099356676",
+              "start": 3,
+              "username": "pingqimuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUubmukYKy",
+              "end": 53,
+              "expanded_url": "https://x.com/pingqimuo/status/2073388352771105012/photo/1",
+              "media_key": "3_2073388203323920384",
+              "start": 30,
+              "url": "https://t.co/zUubmukYKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073832702617530700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073388352771105012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pingqimuo: 怎么办，要秋秋要跟川哥进去吗 https://t.co/zUubmukYKy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073388203323920384"
+          ]
+        },
+        "author_id": "1994060768099356676",
+        "conversation_id": "2073388352771105012",
+        "created_at": "2026-07-04T12:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073388352771105012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUubmukYKy",
+              "end": 38,
+              "expanded_url": "https://x.com/pingqimuo/status/2073388352771105012/photo/1",
+              "media_key": "3_2073388203323920384",
+              "start": 15,
+              "url": "https://t.co/zUubmukYKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073388352771105012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 33065,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "怎么办，要秋秋要跟川哥进去吗 https://t.co/zUubmukYKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "A1，荣区，尔康弗西里，陇苏拉可卡得尔，NANGAFU",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 1131,
+          "like_count": 2687,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T15:09:06.000Z",
+        "description": "hi 我是秋秋/快18了\n我失败了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jerry-site-phi.vercel.app",
+                "end": 23,
+                "expanded_url": "https://jerry-site-phi.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/1GlYcbwgy5"
+              }
+            ]
+          }
+        },
+        "id": "1994060768099356676",
+        "location": "苏州姑苏区",
+        "name": "秋🏳️‍⚧️(轻生版)",
+        "pinned_tweet_id": "2061256919910908272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069598933622673408/rRVHuYm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 26,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/1GlYcbwgy5",
+        "username": "pingqimuo",
+        "verified": false
+      }
+    ]
+  }
+}

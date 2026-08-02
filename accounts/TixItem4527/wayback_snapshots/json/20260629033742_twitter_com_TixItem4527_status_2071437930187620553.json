@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2071165003328291165",
+    "created_at": "2026-06-29T03:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T04:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071437930187620553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036459029237833728",
+          "start": 0,
+          "username": "HMiku2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071437930187620553",
+    "in_reply_to_user_id": "2036459029237833728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071401102910882191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMiku2333 可以哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2071165003328291165",
+        "created_at": "2026-06-29T03:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071437930187620553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036459029237833728",
+              "start": 0,
+              "username": "HMiku2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071437930187620553",
+        "in_reply_to_user_id": "2036459029237833728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071401102910882191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMiku2333 可以哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036459029237833728",
+        "conversation_id": "2071165003328291165",
+        "created_at": "2026-06-29T01:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071401102910882191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071401102910882191",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071165003328291165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 来一起玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP\nCN抖音:tixitem4527\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，未竟的复活赛)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 898,
+          "like_count": 2146,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T15:04:15.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/15|药娘小资历 | 170 厘米 | 60公斤| 不抽烟 |双相情感障碍|成分复杂|飞友|日本语|English|中文｜有小证｜含糖中｜❤️@C_lier_fufu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "C_lier_fufu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmiku2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmiku2333",
+                "start": 0,
+                "url": "https://t.co/hD487V0nKB"
+              }
+            ]
+          }
+        },
+        "id": "2036459029237833728",
+        "name": "Yuri🍥🏳️‍⚧",
+        "pinned_tweet_id": "2063994505242771568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070549945539756032/xU5q1B5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 306,
+          "like_count": 3691,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/hD487V0nKB",
+        "username": "HMiku2333",
+        "verified": true
+      }
+    ]
+  }
+}

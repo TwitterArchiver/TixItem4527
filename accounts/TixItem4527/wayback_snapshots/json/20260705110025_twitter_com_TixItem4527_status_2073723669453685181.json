@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2073631866628808807",
+    "created_at": "2026-07-05T11:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073723669453685181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073723669453685181",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073631866628808807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami 好耶，厉害喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 109,
+        "media_key": "3_2073631863835344896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcFMY7WQAAjJx1.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2073631866628808807",
+        "created_at": "2026-07-05T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073723669453685181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073723669453685181",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073631866628808807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami 好耶，厉害喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073631863835344896"
+          ]
+        },
+        "author_id": "1752365546916720640",
+        "conversation_id": "2073631866628808807",
+        "created_at": "2026-07-05T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073631866628808807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFwznqA9Zj",
+              "end": 30,
+              "expanded_url": "https://x.com/Yuzumikonami/status/2073631866628808807/photo/1",
+              "media_key": "3_2073631863835344896",
+              "start": 7,
+              "url": "https://t.co/HFwznqA9Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073631866628808807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全胜利喵🤓 https://t.co/HFwznqA9Zj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "低能电力区，卡陇南以，克格莫斯弗兰堪奇，AWALON",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1118,
+          "like_count": 2657,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "男（？ | 11年 | 准高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨 | 发点梗图和日常喵 |互fo喵❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jnxnlr.top",
+                "end": 23,
+                "expanded_url": "https://www.jnxnlr.top/",
+                "start": 0,
+                "url": "https://t.co/J27R2yCbUP"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "location": "基沃托斯",
+        "name": "柚见小南Yuzumikonami🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073338775724331463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072479599095877632/PuUiLFEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 235,
+          "like_count": 4891,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/J27R2yCbUP",
+        "username": "Yuzumikonami",
+        "verified": false
+      }
+    ]
+  }
+}

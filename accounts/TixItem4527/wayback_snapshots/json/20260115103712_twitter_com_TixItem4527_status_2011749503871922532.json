@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011749501082730496"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2011749503871922532",
+    "created_at": "2026-01-15T10:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T11:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011749503871922532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nTQBimHV66",
+          "end": 50,
+          "expanded_url": "https://x.com/TixItem4527/status/2011749503871922532/photo/1",
+          "media_key": "3_2011749501082730496",
+          "start": 27,
+          "url": "https://t.co/nTQBimHV66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011749503871922532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真求你了被人阴阳了，以后买药不发QQ空间了😨#药娘 https://t.co/nTQBimHV66"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_2011749501082730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-srgzUbAAANrbZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011749501082730496"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2011749503871922532",
+        "created_at": "2026-01-15T10:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011749503871922532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTQBimHV66",
+              "end": 50,
+              "expanded_url": "https://x.com/TixItem4527/status/2011749503871922532/photo/1",
+              "media_key": "3_2011749501082730496",
+              "start": 27,
+              "url": "https://t.co/nTQBimHV66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011749503871922532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真求你了被人阴阳了，以后买药不发QQ空间了😨#药娘 https://t.co/nTQBimHV66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\n11年的药药|无心理疾病|不割手手不涩涩|175cm(有点高好烦恼)|60kg|梦想是有吃不完的糖和一台电脑|有点社恐|INFP|爱玩游戏|\n平时会发一些日常和游戏之类的捏，偶尔女装。新手药药还有一些不太懂的地方希望有姐姐传授经验捏~\n跨跨帮跨跨，有问题可发邮件至3810725172@qq.com哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorW6hu"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 52,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/69aJorW6hu",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2075966455808708741",
+    "created_at": "2026-07-11T15:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075966455808708741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2075747421066567680",
+          "start": 3,
+          "username": "yumeng1437"
+        },
+        {
+          "end": 32,
+          "id": "2074136101305126912",
+          "start": 22,
+          "username": "Ruoxi_Wan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075966455808708741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075826673388556533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumeng1437: 【求助贴】\n@Ruoxi_Wan于2026年7月10日被父母因“戒OD”要求强制入院，其最后一条消息是在她被她父母报警带到江西省精神卫生中心\n\n我现在打她的电话，依然还是关机失联的\n可能电话卡被拔了，或者手机一直关机\n此后并无任何消息，因为我有其…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2075966455808708741",
+        "created_at": "2026-07-11T15:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075966455808708741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2075747421066567680",
+              "start": 3,
+              "username": "yumeng1437"
+            },
+            {
+              "end": 32,
+              "id": "2074136101305126912",
+              "start": 22,
+              "username": "Ruoxi_Wan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075966455808708741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075826673388556533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumeng1437: 【求助贴】\n@Ruoxi_Wan于2026年7月10日被父母因“戒OD”要求强制入院，其最后一条消息是在她被她父母报警带到江西省精神卫生中心\n\n我现在打她的电话，依然还是关机失联的\n可能电话卡被拔了，或者手机一直关机\n此后并无任何消息，因为我有其…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075747421066567680",
+        "conversation_id": "2075826673388556533",
+        "created_at": "2026-07-11T06:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075826673388556533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074136101305126912",
+              "start": 6,
+              "username": "Ruoxi_Wan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075826673388556533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 245,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【求助贴】\n@Ruoxi_Wan于2026年7月10日被父母因“戒OD”要求强制入院，其最后一条消息是在她被她父母报警带到江西省精神卫生中心\n\n我现在打她的电话，依然还是关机失联的\n可能电话卡被拔了，或者手机一直关机\n此后并无任何消息，因为我有其父亲的电话号码。我进行了短信交流\n求扩散，求转发，求助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "天空城F76",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1188,
+          "like_count": 3057,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T01:04:38.000Z",
+        "description": "欢迎同类互fo 2026.03.10无证含糖 2014.06.28降生",
+        "id": "2075747421066567680",
+        "name": "猫宇梦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075817712048304477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075748406094647296/HBmxSwVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "yumeng1437",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T14:20:14.000Z",
+        "description": "友跨欢迎互fo | 2026.3.6无证含糖\n社会自由主义者",
+        "id": "2074136101305126912",
+        "location": "Keelung,Taiwan",
+        "name": "万若汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074137040837619712/v5cYVCGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "Ruoxi_Wan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2080277046274691276",
+    "created_at": "2026-07-24T07:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080554169224806400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "520maodou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080554169224806400",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080277046274691276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520maodou 姐姐，不對不對媽媽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080277005443223552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6g6ifbUAALbn7.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2080277027694039040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6g71Yb0AAkRxr.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2080277046274691276",
+        "created_at": "2026-07-24T07:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080554169224806400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "520maodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080554169224806400",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080277046274691276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520maodou 姐姐，不對不對媽媽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080277005443223552",
+            "3_2080277027694039040"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "conversation_id": "2080277046274691276",
+        "created_at": "2026-07-23T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080277046274691276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4MVCCz2wd",
+              "end": 40,
+              "expanded_url": "https://x.com/520maodou/status/2080277046274691276/photo/1",
+              "media_key": "3_2080277005443223552",
+              "start": 17,
+              "url": "https://t.co/d4MVCCz2wd"
+            },
+            {
+              "display_url": "pic.x.com/d4MVCCz2wd",
+              "end": 40,
+              "expanded_url": "https://x.com/520maodou/status/2080277046274691276/photo/1",
+              "media_key": "3_2080277027694039040",
+              "start": 17,
+              "url": "https://t.co/d4MVCCz2wd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080277046274691276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4227,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1米8的小药娘也可以是小蛋糕嘛🥹 https://t.co/d4MVCCz2wd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1244,
+          "like_count": 3494,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 小证含糖 | HRT 26.5.4 |26.5.15已炸柜 | 大一数学系新生一枚| 家长党 |「坐标杭州」 |181cm 57kg | 爱好穿搭与cosplay 欢迎同好交流🍥| 支持新自由主义🏳️‍⚧️ （不是粉红喵～）",
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2056599288319443386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069828219298017280/H6q2UkAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 165,
+          "like_count": 202,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "520maodou",
+        "verified": true
+      }
+    ]
+  }
+}

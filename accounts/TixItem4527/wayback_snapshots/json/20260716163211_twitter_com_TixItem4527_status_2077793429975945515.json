@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2077507103045149022",
+    "created_at": "2026-07-16T16:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077793429975945515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497213290706968576",
+          "start": 0,
+          "username": "Sylvielove2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077793429975945515",
+    "in_reply_to_user_id": "1497213290706968576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077507103045149022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylvielove2022 你也有你的Shio酱嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "自我介绍",
+        "height": 907,
+        "media_key": "3_2077506821909274624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTJcopaYAAM1I-.png",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2077507103045149022",
+        "created_at": "2026-07-16T16:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077793429975945515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497213290706968576",
+              "start": 0,
+              "username": "Sylvielove2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077793429975945515",
+        "in_reply_to_user_id": "1497213290706968576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077507103045149022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvielove2022 你也有你的Shio酱嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077506821909274624"
+          ]
+        },
+        "author_id": "1497213290706968576",
+        "conversation_id": "2077507103045149022",
+        "created_at": "2026-07-15T21:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077507103045149022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODkZSbbHA0",
+              "end": 23,
+              "expanded_url": "https://x.com/Sylvielove2022/status/2077507103045149022/photo/1",
+              "media_key": "3_2077506821909274624",
+              "start": 0,
+              "url": "https://t.co/ODkZSbbHA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077507103045149022",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1245,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ODkZSbbHA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 1216,
+          "like_count": 3200,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "别担心，我在这里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sylvie87078",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sylvie87078",
+                "start": 0,
+                "url": "https://t.co/hRi0Xepa1R"
+              }
+            ]
+          }
+        },
+        "id": "1497213290706968576",
+        "location": "众神眷恋的幻想乡",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "pinned_tweet_id": "2077507103045149022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077506762668949504/pWKm6xZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 1821,
+          "like_count": 19852,
+          "listed_count": 1,
+          "media_count": 2392,
+          "tweet_count": 8834
+        },
+        "url": "https://t.co/hRi0Xepa1R",
+        "username": "Sylvielove2022",
+        "verified": true
+      }
+    ]
+  }
+}

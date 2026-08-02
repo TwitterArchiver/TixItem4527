@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2047453530760282255",
+    "created_at": "2026-04-24T14:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047679271565775268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Coxe_Pica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047679271565775268",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047678957143683108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coxe_Pica 摸摸，一定要深柜哦，你姐姐炸的时候被抽了一顿()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2047453530760282255",
+        "created_at": "2026-04-24T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047679271565775268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047679271565775268",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047678957143683108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica 摸摸，一定要深柜哦，你姐姐炸的时候被抽了一顿()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2047453530760282255",
+        "created_at": "2026-04-24T14:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047678957143683108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047678957143683108",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047676397603406160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 还没有o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/yojrEEdLDB"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 472,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/yojrEEdLDB",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁2013.1.3🎂生日/初二生/7年级/也许是泛性恋？\nMtf/女孩子-年龄党/无证含糖🍥🏳️‍⚧️\n喜欢折腾Windows 电脑和会一点编程\n不自残🔪/不Od💊/苹果粉\n分享我的日常生活和技术\n关注芸光谢谢喵~\n\"Throw me up like the northern lights\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAlvVH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北江汉",
+        "name": "芸光AuroraLight 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045758360814026752/BKtY2cdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 18,
+          "like_count": 762,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/ic4apAlvVH",
+        "username": "Coxe_Pica",
+        "verified": true
+      }
+    ]
+  }
+}

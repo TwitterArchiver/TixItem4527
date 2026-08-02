@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2044811450338934890",
+    "created_at": "2026-04-16T22:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T23:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044909068154986885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044909068154986885",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044849798214533531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2044811450338934890",
+        "created_at": "2026-04-16T22:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044909068154986885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044909068154986885",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044849798214533531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027280531097088000",
+        "conversation_id": "2044811450338934890",
+        "created_at": "2026-04-16T18:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044849798214533531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044849798214533531",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044811450338934890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 我也是国补～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingju.org/2189.html",
+                "end": 23,
+                "expanded_url": "https://www.qingju.org/2189.html",
+                "start": 0,
+                "url": "https://t.co/KFqXBf579u"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 399,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/KFqXBf579u",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵)\n🍥⋆̩̩̩✧⊹꙳✨꒰ঌʚɞ໒꒱⋆̩̩̩🍥（mtf？\n欢迎同类互fo\n大！家！快！来！找！我！玩！啊！\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "id": "2027280531097088000",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🏳️‍⚧️🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044035036908007430/_KeeV9zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 70,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 58
+        },
+        "username": "Lvmaosamaovo",
+        "verified": false
+      }
+    ]
+  }
+}

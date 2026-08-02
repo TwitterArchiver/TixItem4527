@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2042689129885188241",
+    "created_at": "2026-04-11T13:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042954812460011866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012958305308565505",
+          "start": 0,
+          "username": "raindreamya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042954812460011866",
+    "in_reply_to_user_id": "2012958305308565505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042689129885188241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindreamya 抱抱唔，会好起来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2343,
+        "media_key": "3_2042689123308515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkW711bsAAPW14.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2042689129885188241",
+        "created_at": "2026-04-11T13:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042954812460011866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012958305308565505",
+              "start": 0,
+              "username": "raindreamya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042954812460011866",
+        "in_reply_to_user_id": "2012958305308565505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042689129885188241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindreamya 抱抱唔，会好起来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042689123308515328"
+          ]
+        },
+        "author_id": "2012958305308565505",
+        "conversation_id": "2042689129885188241",
+        "created_at": "2026-04-10T19:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:37:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042688521652277567",
+          "2042689129885188241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fD2L6eZllu",
+              "end": 164,
+              "expanded_url": "https://x.com/raindreamya/status/2042689129885188241/photo/1",
+              "media_key": "3_2042689123308515328",
+              "start": 141,
+              "url": "https://t.co/fD2L6eZllu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042689129885188241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 512,
+                "start": 508,
+                "tag": "mtf"
+              },
+              {
+                "end": 517,
+                "start": 513,
+                "tag": "xyn"
+              }
+            ]
+          },
+          "text": "我。。。我做错了也许，嗯，或许我不该吃糖吧，家里人也不支持窝，也担心我，家里还有人还在为我哭，嗯说让我做一个正常人再回来，我现在流落在外。不，我不回去，回去停药然后眼睁睁看着自己越来越男性化的身体焦虑加重抑郁加重吗。以前小时候只是我从来不在乎自己在乎自己的形象还体弱多病因严重的鼻炎还被很多人嫌弃和欺负和针对，胆小社恐每天浑浑噩噩过一天是一天。不知道怎么回事可能哪一天开智了😅（）注意到我自己的身体开始观察自己，有些在意自己了，有些担心，我注意到越来越男性化的身体感觉不舒服，感觉这并不是我想要那样，然后我有过女装虽然很少因为不好看只是拍几张照片给别人看希望有人夸。之后在推特上面知道了mtf，然后我了解了hrt，开始自行hrt，早就后悔为什么长这么高，身高180多点脚码46，女装鞋子都不好买，我不想长那么高我妈以前天天给我喝牛奶啊，后悔没早点hrt，唉我希望吃糖可以阻断我身体男性化下去，让我身体女性化一些，但也有些晚了我的喉结体毛什么的这些男性特征也发育的差不多了，如果我能早点hrt就行了，要是能早点知道。希望现在还可以改变一点。羡慕年龄党羡慕天赋党😭😭😭不说了先割了，看看推友怎么说难道我就要非停不可了😭\n#mtf #xyn"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7491,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我。。。我做错了也许，嗯，或许我不该吃糖吧，家里人也不支持窝，也担心我，家里还有人还在为我哭，嗯说让我做一个正常人再回来，我现在流落在外。不，我不回去，回去停药然后眼睁睁看着自己越来越男性化的身体焦虑加重抑郁加重吗。以前小时候只是我从来不在乎自己在乎自己的形象还体弱多病因严重的鼻 https://t.co/fD2L6eZllu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|2011.03.25出现!|快15岁了喵|无心理疾病|不割手手|174cm(有点高烦恼)|60kg|有点社恐|INFP|\n无人在意的失败的账号🏳️‍⚧🍥\n跨跨帮跨跨，有问题可发邮件至430830097@qq.com哦\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorWE72"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 342,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/69aJorWE72",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「常驻江浙沪」 |182cm 62kg | 这里可以通过tg联系窝喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainsnowdream",
+                "end": 23,
+                "expanded_url": "http://t.me/rainsnowdream",
+                "start": 0,
+                "url": "https://t.co/gbPraZolk2"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030692046701473792/st46wcwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 132,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/gbPraZolk2",
+        "username": "raindreamya",
+        "verified": true
+      }
+    ]
+  }
+}

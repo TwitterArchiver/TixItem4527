@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2046263243535192320",
+    "created_at": "2026-04-20T23:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046376696295940464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046376696295940464",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046263243535192320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ 不如发点日常帖，看看圈内逆天事()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2046263243535192320",
+        "created_at": "2026-04-20T23:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046376696295940464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046376696295940464",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046263243535192320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 不如发点日常帖，看看圈内逆天事()"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046263242411081733"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2046263243535192320",
+        "created_at": "2026-04-20T16:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046263243535192320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046263243535192320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陷入中推的朋友们，如果给你们一个机会回到过去，不再翻墙玩推特，接触与混跨性别，嗑药，自伤，鉴证等圈子，不再和各式各样的推友交朋友\n和你们的同学一样，成为一名普通的小孩，普通的做题家，平稳的长大成人，过上正常生活\n\n你会重来吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.chinadlrs.com/?id=0",
+                "end": 23,
+                "expanded_url": "https://m.chinadlrs.com/?id=0",
+                "start": 0,
+                "url": "https://t.co/qfiD1C9uNS"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 451,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/qfiD1C9uNS",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，喜欢普瑞巴林💊，曾因偷窃内衣被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，以及蓝v互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2046244981149769865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 125,
+          "like_count": 3052,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 1111
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2064931629664293011",
+    "created_at": "2026-06-11T04:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064931629664293011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/renyue105/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/renyue105/status/2062714604036497625",
+          "start": 13,
+          "url": "https://t.co/5XfEqWlX79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064931629664293011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062714604036497625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "任姐你在国内抖音都牛大了 https://t.co/5XfEqWlX79"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2064931629664293011",
+        "created_at": "2026-06-11T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064931629664293011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renyue105/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/renyue105/status/2062714604036497625",
+              "start": 13,
+              "url": "https://t.co/5XfEqWlX79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064931629664293011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062714604036497625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "任姐你在国内抖音都牛大了 https://t.co/5XfEqWlX79"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2062714604036497625",
+        "created_at": "2026-06-05T01:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062714604036497625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062714604036497625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2266,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "..我其实只是一个比较缺爱，有很多心理创伤的普通小女孩🙁没想到会被这么多人讨厌，都把我当乐子看，你们赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 642,
+          "like_count": 1683,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "🤠",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "pinned_tweet_id": "2064003777615769775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061239650795274241/n3YG4h22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 67,
+          "like_count": 3583,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 3257
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

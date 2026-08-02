@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2080547761842446409",
+    "created_at": "2026-07-24T06:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080547761842446409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/babymoon2002/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/babymoon2002/status/2074351756578881722",
+          "start": 14,
+          "url": "https://t.co/S0uzfUOYst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080547761842446409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074351756578881722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是真的，國內依舊封建一坨 https://t.co/S0uzfUOYst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_2074351750438617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmT7TgagAA1DQh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2080547761842446409",
+        "created_at": "2026-07-24T06:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080547761842446409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/babymoon2002/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/babymoon2002/status/2074351756578881722",
+              "start": 14,
+              "url": "https://t.co/S0uzfUOYst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080547761842446409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074351756578881722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是真的，國內依舊封建一坨 https://t.co/S0uzfUOYst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074351750438617088"
+          ]
+        },
+        "author_id": "264901353",
+        "conversation_id": "2074351756578881722",
+        "created_at": "2026-07-07T04:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074351756578881722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oz3hBm3TaB",
+              "end": 89,
+              "expanded_url": "https://x.com/babymoon2002/status/2074351756578881722/photo/1",
+              "media_key": "3_2074351750438617088",
+              "start": 66,
+              "url": "https://t.co/Oz3hBm3TaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074351756578881722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 11239,
+          "like_count": 98,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "中国でのトランスジェンダーの扱いの1例\nこれ事実ならほんとに怖い\n\n暴力で性別不合を治そうとする昔のやり方をしている施設はまだある https://t.co/Oz3hBm3TaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1244,
+          "like_count": 3490,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-12T17:01:01.000Z",
+        "description": "P ¦ ENFP-T ¦ ゆるオタ ¦ 邦ロック ¦ねぐせ。¦🌍️🔚                ¦ミセス¦マルシィ¦mimi¦ 縮小垢\n@tailmoon2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "tailmoon2022"
+              }
+            ]
+          }
+        },
+        "id": "264901353",
+        "location": "メンヘラ属性",
+        "name": "まふゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797941829188640768/kV4nXD91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 435,
+          "like_count": 19284,
+          "listed_count": 50,
+          "media_count": 803,
+          "tweet_count": 16223
+        },
+        "url": "",
+        "username": "babymoon2002",
+        "verified": false
+      }
+    ]
+  }
+}

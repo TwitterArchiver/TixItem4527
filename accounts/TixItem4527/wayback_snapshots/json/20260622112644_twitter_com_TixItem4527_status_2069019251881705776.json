@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2068965075659182447",
+    "created_at": "2026-06-22T11:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069019251881705776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "kizumiyamizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069019251881705776",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068965075659182447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kizumiyamizuki 摸摸我也是😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068965066859495424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZwxDbaQAA2h2n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1424,
+        "media_key": "3_2068965066045816832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZwxAZagAAbXOW.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068965068386304000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZwxJHbgAAHCsh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2068965075659182447",
+        "created_at": "2026-06-22T11:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069019251881705776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "kizumiyamizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069019251881705776",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068965075659182447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kizumiyamizuki 摸摸我也是😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068965066859495424",
+            "3_2068965066045816832",
+            "3_2068965068386304000"
+          ]
+        },
+        "author_id": "1809754445162639361",
+        "conversation_id": "2068965075659182447",
+        "created_at": "2026-06-22T07:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068965075659182447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd7uPgrfe5",
+              "end": 99,
+              "expanded_url": "https://x.com/kizumiyamizuki/status/2068965075659182447/photo/1",
+              "media_key": "3_2068965066859495424",
+              "start": 76,
+              "url": "https://t.co/xd7uPgrfe5"
+            },
+            {
+              "display_url": "pic.x.com/xd7uPgrfe5",
+              "end": 99,
+              "expanded_url": "https://x.com/kizumiyamizuki/status/2068965075659182447/photo/1",
+              "media_key": "3_2068965066045816832",
+              "start": 76,
+              "url": "https://t.co/xd7uPgrfe5"
+            },
+            {
+              "display_url": "pic.x.com/xd7uPgrfe5",
+              "end": 99,
+              "expanded_url": "https://x.com/kizumiyamizuki/status/2068965075659182447/photo/1",
+              "media_key": "3_2068965068386304000",
+              "start": 76,
+              "url": "https://t.co/xd7uPgrfe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068965075659182447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不出意外上一次是近半年最后一次发女装了。\n老母嫌我的头发太难看想去修一下。。。。\n\n结果理发师看着是男生咔咔剪了个男头。。。。。。。。\n我的头发😭😭😭 https://t.co/xd7uPgrfe5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 782,
+          "like_count": 1937,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "世界以痛吻我，要我报之以歌。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "location": "127.0.0.1",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "pinned_tweet_id": "2055463762287853814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066060110699614208/hDh9V8J2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 805,
+          "like_count": 790,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "kizumiyamizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2032033370654589246",
+    "created_at": "2026-03-13T14:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032463724318195757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032463724318195757",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032033370654589246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 同，这群暴力男就是一群行呀以，讨厌喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2032033370654589246",
+        "created_at": "2026-03-13T14:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032463724318195757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032463724318195757",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032033370654589246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 同，这群暴力男就是一群行呀以，讨厌喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973792014455152640",
+        "conversation_id": "2032033370654589246",
+        "created_at": "2026-03-12T09:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032033370654589246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032033370654589246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好怕我们班的男生\n有点恐男了😭\n就是今天下午...\n他们突然过来了（我坐的女生组）然后我旁边也都是女生...\n就这个环境下他们看见我就问我很隐私的问题😅然后我不耐烦的回了之后一个男生直接把我包打开了 问我里面是不是有小玩具😭😭另一个男生问我你用跳蛋还是用什么呀😅😅我当时无语了我就想让他们走，结果硬是把我包翻出来看了之后才走的\n主要是我旁边还有女生他们也这么问我好恶心🤮"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 314581,
+          "like_count": 471,
+          "quote_count": 2,
+          "reply_count": 126,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好怕我们班的男生\n有点恐男了😭\n就是今天下午...\n他们突然过来了（我坐的女生组）然后我旁边也都是女生...\n就这个环境下他们看见我就问我很隐私的问题😅然后我不耐烦的回了之后一个男生直接把我包打开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|11.03.25发生在世界|快15岁了喵|无心理疾病|不割手手|174cm(有点高烦恼)|60kg|有点社恐|INFP|\n无人在意的失败的账号🏳️‍⚧🍥\n跨跨帮跨跨，有问题可发邮件至430830097@qq.com哦\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorWE72"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 166,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/69aJorWE72",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 1038,
+          "like_count": 55,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

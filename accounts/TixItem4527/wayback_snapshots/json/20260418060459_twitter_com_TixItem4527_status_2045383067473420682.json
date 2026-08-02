@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2044811396203032971",
+    "created_at": "2026-04-18T06:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045383067473420682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1469839768980701188",
+          "start": 0,
+          "username": "gelie70696229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045383067473420682",
+    "in_reply_to_user_id": "1469839768980701188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045061177986908166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gelie70696229 已经用同类给的美国手机号注册了个新号了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-18T06:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045383067473420682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1469839768980701188",
+              "start": 0,
+              "username": "gelie70696229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045383067473420682",
+        "in_reply_to_user_id": "1469839768980701188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045061177986908166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gelie70696229 已经用同类给的美国手机号注册了个新号了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469839768980701188",
+        "conversation_id": "2044811396203032971",
+        "created_at": "2026-04-17T08:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045061177986908166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045061177986908166",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044811396203032971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 我有成品号你要不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingju.org/2189.html",
+                "end": 23,
+                "expanded_url": "https://www.qingju.org/2189.html",
+                "start": 0,
+                "url": "https://t.co/KFqXBf579u"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 409,
+          "like_count": 942,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/KFqXBf579u",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T01:21:32.000Z",
+        "description": "出售各种海外账号需要的联系",
+        "id": "1469839768980701188",
+        "name": "纸飞机/X/Discord/Facebook成品账号出售",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758331948177457152/u_skvMBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "gelie70696229",
+        "verified": false
+      }
+    ]
+  }
+}

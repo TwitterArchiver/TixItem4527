@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2077605429564293475",
+    "created_at": "2026-07-16T15:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077777536566833662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072205749841960960",
+          "start": 0,
+          "username": "DICKAN24KM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077777536566833662",
+    "in_reply_to_user_id": "2072205749841960960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077620059573453144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DICKAN24KM 我现在还在抖音疯狂研究怎么样建家更耐炸易守，不过究其原因还是没人能守家😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2077605429564293475",
+        "created_at": "2026-07-16T15:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077777536566833662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072205749841960960",
+              "start": 0,
+              "username": "DICKAN24KM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077777536566833662",
+        "in_reply_to_user_id": "2072205749841960960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077620059573453144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DICKAN24KM 我现在还在抖音疯狂研究怎么样建家更耐炸易守，不过究其原因还是没人能守家😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072205749841960960",
+        "conversation_id": "2077605429564293475",
+        "created_at": "2026-07-16T05:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077620059573453144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077620059573453144",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077605429564293475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 对喽，安全区好玩，不怕被人抄家（但要挖矿防腐蚀）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 1202,
+          "like_count": 3164,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T06:29:59.000Z",
+        "description": "一个享受着操蛋生活的县城挂壁宅男，闲的没事可以来跟我聊天，enjoy your life.",
+        "id": "2072205749841960960",
+        "name": "迪尔希坎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077274677496721408/J8BnH8Ng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "DICKAN24KM",
+        "verified": false
+      }
+    ]
+  }
+}

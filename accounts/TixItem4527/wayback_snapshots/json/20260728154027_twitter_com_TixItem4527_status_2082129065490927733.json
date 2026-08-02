@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2081728802158473237",
+    "created_at": "2026-07-28T15:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082129065490927733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2076248728604962816",
+          "start": 0,
+          "username": "Sakura39mc"
+        },
+        {
+          "end": 26,
+          "id": "2079365089334112256",
+          "start": 12,
+          "username": "Kiyoshiaufzju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082129065490927733",
+    "in_reply_to_user_id": "2076248728604962816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081776929234117018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura39mc @Kiyoshiaufzju 他们直接用脏话骂的，从素质就可以看出来现实大多数应该都是进厂的那块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2081728802158473237",
+        "created_at": "2026-07-28T15:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082129065490927733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2076248728604962816",
+              "start": 0,
+              "username": "Sakura39mc"
+            },
+            {
+              "end": 26,
+              "id": "2079365089334112256",
+              "start": 12,
+              "username": "Kiyoshiaufzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082129065490927733",
+        "in_reply_to_user_id": "2076248728604962816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081776929234117018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura39mc @Kiyoshiaufzju 他们直接用脏话骂的，从素质就可以看出来现实大多数应该都是进厂的那块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076248728604962816",
+        "conversation_id": "2081728802158473237",
+        "created_at": "2026-07-27T16:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081776929234117018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079365089334112256",
+              "start": 0,
+              "username": "Kiyoshiaufzju"
+            },
+            {
+              "end": 27,
+              "id": "1708446662514110464",
+              "start": 15,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081776929234117018",
+        "in_reply_to_user_id": "2079365089334112256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081735390076252660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiaufzju @TixItem4527 不懂就问\n为什么那些人是失败者\n（无恶意ಠ⌣ಠ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1246,
+          "like_count": 3565,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T10:16:44.000Z",
+        "description": "数码科技/ACG/gal高手\n当朋友圈发 欢迎互fo^_^\n政治勿扰",
+        "id": "2076248728604962816",
+        "location": "魔女岛",
+        "name": "Sakura_萝卜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081576371747467264/bUel1v8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 23,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Sakura39mc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）（许安清大王）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 149,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2001058211441598665",
+    "created_at": "2025-12-19T13:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T14:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002007796255248594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905581984849465344",
+          "start": 0,
+          "username": "Ads1742203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002007796255248594",
+    "in_reply_to_user_id": "1905581984849465344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001058211441598665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ads1742203 同，我打听了一下，好像大部分无证的都是朋友帮买的，真奇怪从哪搞到的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2001058211441598665",
+        "created_at": "2025-12-19T13:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002007796255248594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905581984849465344",
+              "start": 0,
+              "username": "Ads1742203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002007796255248594",
+        "in_reply_to_user_id": "1905581984849465344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001058211441598665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ads1742203 同，我打听了一下，好像大部分无证的都是朋友帮买的，真奇怪从哪搞到的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905581984849465344",
+        "conversation_id": "2001058211441598665",
+        "created_at": "2025-12-16T22:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T23:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001058211441598665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001058211441598665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想试试吃药了，但是不知道从哪里买，好尴尬，好奇那些无证含糖的都是从哪买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "This is not BIO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.twitter.com",
+                "start": 0,
+                "url": "https://t.co/fmtpFOSZoQ"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-Jiangxi-Ganzhou",
+        "name": "TixItem4527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 87,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/fmtpFOSZoQ",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T11:25:35.000Z",
+        "description": "Fuck me\n做主人听话的几把套子",
+        "id": "1905581984849465344",
+        "name": "婉秋",
+        "pinned_tweet_id": "1980718743983460835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980705389239775232/F9TO1-RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1153,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "username": "Ads1742203",
+        "verified": false
+      }
+    ]
+  }
+}

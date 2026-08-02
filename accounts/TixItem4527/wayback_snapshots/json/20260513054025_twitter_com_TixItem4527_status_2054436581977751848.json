@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2054436581977751848",
+    "created_at": "2026-05-13T05:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054436581977751848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PaulDrizzyvlni…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2053829380879851554",
+          "start": 32,
+          "url": "https://t.co/KvXrECxTSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054436581977751848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053829380879851554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么开放的嘛，我这穷封建地儿gay都已经被当成骂人的词汇了() https://t.co/KvXrECxTSv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2054436581977751848",
+        "created_at": "2026-05-13T05:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054436581977751848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaulDrizzyvlni…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2053829380879851554",
+              "start": 32,
+              "url": "https://t.co/KvXrECxTSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054436581977751848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053829380879851554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么开放的嘛，我这穷封建地儿gay都已经被当成骂人的词汇了() https://t.co/KvXrECxTSv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980236829455511552",
+        "conversation_id": "2053829380879851554",
+        "created_at": "2026-05-11T13:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053829380879851554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2053812665567625426",
+              "start": 19,
+              "url": "https://t.co/T7jlvKIukh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053829380879851554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2718,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053812665567625426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的书包小鱼板就被友跨同学认出来了） https://t.co/T7jlvKIukh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注-同类互fo\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 520,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|香山陰暗女高|粵內勢力|重度抑郁患者|精神支持：保羅喬治|一定會好的吧|愛好睡覺和汉堡🐱|好姐姐 @HappyHejsDay | 對象@shixveriya 🥰 |可愛姊妹@shiyaoshiwo |安卓小號 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "shixveriya"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "shiyaoshiwo"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "PG13LD77"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 1349,
+          "like_count": 6363,
+          "listed_count": 7,
+          "media_count": 383,
+          "tweet_count": 4663
+        },
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

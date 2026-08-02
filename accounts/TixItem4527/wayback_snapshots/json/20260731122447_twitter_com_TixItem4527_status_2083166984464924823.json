@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082856635702341632"
+      ],
+      "media_source_tweet_id": [
+        "2082856646246814142"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2083166984464924823",
+    "created_at": "2026-07-31T12:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083166984464924823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1945331416528539649",
+          "start": 3,
+          "username": "bpmiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dur0yFoLxC",
+          "end": 50,
+          "expanded_url": "https://x.com/bpmiea/status/2082856646246814142/photo/1",
+          "media_key": "3_2082856635702341632",
+          "start": 27,
+          "url": "https://t.co/Dur0yFoLxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083166984464924823",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082856646246814142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpmiea: 我是死人妖我活该被霸凌喵😋😋 https://t.co/Dur0yFoLxC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2839,
+        "media_key": "3_2082856635702341632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfLEyEacAAjup3.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082856635702341632"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "conversation_id": "2082856646246814142",
+        "created_at": "2026-07-30T15:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082856646246814142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dur0yFoLxC",
+              "end": 38,
+              "expanded_url": "https://x.com/bpmiea/status/2082856646246814142/photo/1",
+              "media_key": "3_2082856635702341632",
+              "start": 15,
+              "url": "https://t.co/Dur0yFoLxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082856646246814142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3085,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是死人妖我活该被霸凌喵😋😋 https://t.co/Dur0yFoLxC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082856635702341632"
+          ],
+          "media_source_tweet_id": [
+            "2082856646246814142"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2083166984464924823",
+        "created_at": "2026-07-31T12:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083166984464924823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1945331416528539649",
+              "start": 3,
+              "username": "bpmiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dur0yFoLxC",
+              "end": 50,
+              "expanded_url": "https://x.com/bpmiea/status/2082856646246814142/photo/1",
+              "media_key": "3_2082856635702341632",
+              "start": 27,
+              "url": "https://t.co/Dur0yFoLxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083166984464924823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082856646246814142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpmiea: 我是死人妖我活该被霸凌喵😋😋 https://t.co/Dur0yFoLxC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 1290,
+          "like_count": 3685,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥2026.1已炸柜 | 2011 | 自恨党\n吸毒❌自残❌键政❌滥交❌\narch&nix | py/kotlin/nodejs\ngfwfucker | vibecoder | Vocaloid&SV\n会发一些日常和碎碎念，可能会有负面内容…\n同类互fo！\n最爱的姐姐@4rulq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 147,
+                "username": "4rulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/n3Vk7Z186e"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市 浙江省 中国",
+        "name": "叶洛夜🍥𝓑.𝓜.//一酱重度依赖",
+        "pinned_tweet_id": "2077917279115985096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 691,
+          "like_count": 951,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/n3Vk7Z186e",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

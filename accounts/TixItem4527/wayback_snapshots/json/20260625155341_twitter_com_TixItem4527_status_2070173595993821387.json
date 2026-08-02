@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2070068558105829408",
+    "created_at": "2026-06-25T15:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070173595993821387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1866003673656303616",
+          "start": 0,
+          "username": "xmwben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070173595993821387",
+    "in_reply_to_user_id": "1866003673656303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070068558105829408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmwben 比我好看😇，别这么贬低自己哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2266,
+        "media_key": "3_2070068554951761920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpcYg6bIAANh1M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2070068558105829408",
+        "created_at": "2026-06-25T15:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070173595993821387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1866003673656303616",
+              "start": 0,
+              "username": "xmwben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070173595993821387",
+        "in_reply_to_user_id": "1866003673656303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070068558105829408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmwben 比我好看😇，别这么贬低自己哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070068554951761920"
+          ]
+        },
+        "author_id": "1866003673656303616",
+        "conversation_id": "2070068558105829408",
+        "created_at": "2026-06-25T08:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070068558105829408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "男娘"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "药娘"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "伪娘"
+            },
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "femboy"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "南京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZEzgNMIqK",
+              "end": 120,
+              "expanded_url": "https://x.com/xmwben/status/2070068558105829408/photo/1",
+              "media_key": "3_2070068554951761920",
+              "start": 97,
+              "url": "https://t.co/6ZEzgNMIqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070068558105829408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1279,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己一事无成，既没有别的女孩子身材好，也没人家学习好，也没人家长得好看，性格也不如人家，我这种底边哥布林可能一辈子都没人喜欢 ＃男娘 ＃药娘 ＃伪娘 ＃可爱的男孩子 ＃femboy #南京 https://t.co/6ZEzgNMIqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 805,
+          "like_count": 2000,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T06:15:29.000Z",
+        "description": "好想变成美少女，身高172，体重120，生产日期2007，🚪68，ip南京，常驻江浙沪，持证含糖，愿世上再也没有戒网瘾学校，过门请私信口令红包❤️",
+        "id": "1866003673656303616",
+        "name": "四宫辉奈🍥（互fo互推）",
+        "pinned_tweet_id": "2069615045412372885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003273847861313539/ZbLLRqzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 407,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "xmwben",
+        "verified": false
+      }
+    ]
+  }
+}

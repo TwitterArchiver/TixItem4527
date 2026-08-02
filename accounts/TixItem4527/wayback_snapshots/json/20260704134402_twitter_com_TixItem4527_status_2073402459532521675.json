@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2073081618496160142",
+    "created_at": "2026-07-04T13:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073402459532521675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007440582797602817",
+          "start": 0,
+          "username": "QiuRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073402459532521675",
+    "in_reply_to_user_id": "2007440582797602817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073338414049694020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuRain2024 会说🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2073081618496160142",
+        "created_at": "2026-07-04T13:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073402459532521675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007440582797602817",
+              "start": 0,
+              "username": "QiuRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073402459532521675",
+        "in_reply_to_user_id": "2007440582797602817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073338414049694020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuRain2024 会说🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007440582797602817",
+        "conversation_id": "2073081618496160142",
+        "created_at": "2026-07-04T09:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073338414049694020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073338414049694020",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073081618496160142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 我军训的时候，有人泄露我是药娘大王，都起哄要我表演变性，我上去直接1分钟磕了5000片戊酸雌二醇，教官都傻了，我当场乳腺发育把迷彩服撑爆了，教官直接给我批了三个月产假，还问我能不能分他两片让他也变个身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "格尔，法兰公领",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 1084,
+          "like_count": 2574,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:15:22.000Z",
+        "description": "Mtf/高中在读？/文学家/不o💊不🔪手手/天残自恨党/incel/177/65/出厂日期2010/1/11/ADHD/氯雷重度依赖/26年学考/同类互fo/产地：浙A/现居浙B/心有半亩花田，藏于世俗人间。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QiuRain2024",
+                "end": 23,
+                "expanded_url": "http://t.me/QiuRain2024",
+                "start": 0,
+                "url": "https://t.co/S6xbuTQqU0"
+              }
+            ]
+          }
+        },
+        "id": "2007440582797602817",
+        "location": "中山东路",
+        "name": "秋雨yu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043227644230238208/HkkLmE32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 224,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/S6xbuTQqU0",
+        "username": "QiuRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

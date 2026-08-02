@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2054973749561335931",
+    "created_at": "2026-05-14T17:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054973749561335931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "中林新夏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1369955480026505217",
+          "start": 3,
+          "username": "mementomori_boi"
+        },
+        {
+          "end": 106,
+          "id": "1369955480026505217",
+          "start": 90,
+          "username": "mementomori_boi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054973749561335931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1983
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054856761451127092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mementomori_boi: 🍃イディーネ登場記念！リポストキャンペーン🍃\n抽選で1名様にイディーネ役 #中林新夏 さんの直筆サイン入り色紙が当たる！\n\n▼参加方法\n①@mementomori_boi をフォロー\n②このポストをリポスト\n\n締め切り:2026/5/2…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054856754958360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRRVN-a4AAMqxK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2054973749561335931",
+        "created_at": "2026-05-14T17:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054973749561335931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "中林新夏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1369955480026505217",
+              "start": 3,
+              "username": "mementomori_boi"
+            },
+            {
+              "end": 106,
+              "id": "1369955480026505217",
+              "start": 90,
+              "username": "mementomori_boi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054973749561335931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1983
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054856761451127092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mementomori_boi: 🍃イディーネ登場記念！リポストキャンペーン🍃\n抽選で1名様にイディーネ役 #中林新夏 さんの直筆サイン入り色紙が当たる！\n\n▼参加方法\n①@mementomori_boi をフォロー\n②このポストをリポスト\n\n締め切り:2026/5/2…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054856754958360576"
+          ]
+        },
+        "author_id": "1369955480026505217",
+        "conversation_id": "2054856761451127092",
+        "created_at": "2026-05-14T09:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054856761451127092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "中林新夏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 85,
+              "id": "1369955480026505217",
+              "start": 69,
+              "username": "mementomori_boi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BOI最新作「メメントモリ」公式WEBサイト。―平等なのは、サヨナラだけ。―",
+              "display_url": "mememori-game.com/campaignrule/",
+              "end": 174,
+              "expanded_url": "https://mememori-game.com/campaignrule/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2054856809148796928/FSTQYxsX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054856809148796928/FSTQYxsX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "X (旧Twitter)キャンペーン応募要項 | メメントモリ",
+              "unwound_url": "https://mememori-game.com/campaignrule/",
+              "url": "https://t.co/tUdhlk24x8"
+            },
+            {
+              "display_url": "pic.x.com/UjXZGqHcZT",
+              "end": 198,
+              "expanded_url": "https://x.com/mementomori_boi/status/2054856761451127092/photo/1",
+              "media_key": "3_2054856754958360576",
+              "start": 175,
+              "url": "https://t.co/UjXZGqHcZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054856761451127092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 37,
+                "tag": "中林新夏"
+              },
+              {
+                "end": 182,
+                "start": 175,
+                "tag": "メメントモリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "id": "1369955480026505217",
+                "start": 69,
+                "username": "mementomori_boi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mememori-game.com/campaignrule/",
+                "end": 174,
+                "expanded_url": "https://mememori-game.com/campaignrule/",
+                "start": 151,
+                "url": "https://t.co/u6W02BmWEO"
+              }
+            ]
+          },
+          "text": "🍃イディーネ登場記念！リポストキャンペーン🍃\n抽選で1名様にイディーネ役 #中林新夏 さんの直筆サイン入り色紙が当たる！\n\n▼参加方法\n①@mementomori_boi をフォロー\n②このポストをリポスト\n\n締め切り:2026/5/21 23:59まで\n※後日、当選者にDMが届きます\n\n▼応募規約\nhttps://t.co/u6W02BmWEO\n#メメントモリ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 37545,
+          "like_count": 942,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 1983
+        },
+        "reply_settings": "everyone",
+        "text": "🍃イディーネ登場記念！リポストキャンペーン🍃\n抽選で1名様にイディーネ役 #中林新夏 さんの直筆サイン入り色紙が当たる！\n\n▼参加方法\n①@mementomori_boi をフォロー\n②このポストをリポスト\n\n締め切り:2026/5/21 23:59まで\n※後日、当選者にDMが届きます\n\n▼応募規約\nhttps://t.co/tUdhlk24x8 https://t.co/UjXZGqHcZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注-同类互fo\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 520,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T10:17:59.000Z",
+        "description": "スマホ/PC向けRPG「メメントモリ」公式Xアカウントです⭐DLはこちら⭐ ▶https://t.co/A792mgFfYj ⭐ゲームに関するお問い合わせはこちら⭐ ▶support@mememori-game.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mementomori.onelink.me/rnkf/l433p473",
+                "end": 62,
+                "expanded_url": "http://mementomori.onelink.me/rnkf/l433p473",
+                "start": 39,
+                "url": "https://t.co/A792mgFfYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mememori-game.com",
+                "end": 23,
+                "expanded_url": "https://mememori-game.com/",
+                "start": 0,
+                "url": "https://t.co/3Pm21i0xan"
+              }
+            ]
+          }
+        },
+        "id": "1369955480026505217",
+        "location": "東京都新宿区",
+        "name": "メメントモリ公式",
+        "pinned_tweet_id": "2054856761451127092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625049705117024257/FuScbiiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345154,
+          "following_count": 194,
+          "like_count": 1254,
+          "listed_count": 754,
+          "media_count": 2392,
+          "tweet_count": 3239
+        },
+        "url": "https://t.co/3Pm21i0xan",
+        "username": "mementomori_boi",
+        "verified": true
+      }
+    ]
+  }
+}

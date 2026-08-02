@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2067667124731211782",
+    "created_at": "2026-06-19T15:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067986091567890798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620398317917159425",
+          "start": 0,
+          "username": "mikotanaka7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067986091567890798",
+    "in_reply_to_user_id": "1620398317917159425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067854723768889691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotanaka7 不知道嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2067667124731211782",
+        "created_at": "2026-06-19T15:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067986091567890798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620398317917159425",
+              "start": 0,
+              "username": "mikotanaka7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067986091567890798",
+        "in_reply_to_user_id": "1620398317917159425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067854723768889691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotanaka7 不知道嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620398317917159425",
+        "conversation_id": "2067667124731211782",
+        "created_at": "2026-06-19T06:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067854723768889691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067854723768889691",
+        "in_reply_to_user_id": "1620398317917159425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067854416217329940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 他考虑学手艺吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 726,
+          "like_count": 1818,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T12:27:36.000Z",
+        "description": "小號@JieshenB68601\n 有幸遇之，恰好欢喜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "JieshenB68601"
+              }
+            ]
+          }
+        },
+        "id": "1620398317917159425",
+        "location": "幻想乡",
+        "name": "柚",
+        "pinned_tweet_id": "1937509342951166342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066540465563033600/MwrPFB8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 745,
+          "like_count": 20061,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 3750
+        },
+        "url": "",
+        "username": "mikotanaka7",
+        "verified": false
+      }
+    ]
+  }
+}

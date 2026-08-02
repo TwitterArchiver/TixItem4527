@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2074112010162458758",
+    "created_at": "2026-07-06T16:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074166949433729314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074166949433729314",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074112010162458758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo 加油喵……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074111977362952192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi52rMaEAA6pCw.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074111977333645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi52rFa4AAVtN6.jpg",
+        "width": 946
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2074111977438552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi52reboAAPhEF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074111977354637313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi52rKbMAE-Gsn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2074112010162458758",
+        "created_at": "2026-07-06T16:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074166949433729314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074166949433729314",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074112010162458758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo 加油喵……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074111977362952192",
+            "3_2074111977333645312",
+            "3_2074111977438552064",
+            "3_2074111977354637313"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074112010162458758",
+        "created_at": "2026-07-06T12:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074112010162458758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhlTCUAnIG",
+              "end": 58,
+              "expanded_url": "https://x.com/liulingyo/status/2074112010162458758/photo/1",
+              "media_key": "3_2074111977362952192",
+              "start": 35,
+              "url": "https://t.co/hhlTCUAnIG"
+            },
+            {
+              "display_url": "pic.x.com/hhlTCUAnIG",
+              "end": 58,
+              "expanded_url": "https://x.com/liulingyo/status/2074112010162458758/photo/1",
+              "media_key": "3_2074111977333645312",
+              "start": 35,
+              "url": "https://t.co/hhlTCUAnIG"
+            },
+            {
+              "display_url": "pic.x.com/hhlTCUAnIG",
+              "end": 58,
+              "expanded_url": "https://x.com/liulingyo/status/2074112010162458758/photo/1",
+              "media_key": "3_2074111977438552064",
+              "start": 35,
+              "url": "https://t.co/hhlTCUAnIG"
+            },
+            {
+              "display_url": "pic.x.com/hhlTCUAnIG",
+              "end": 58,
+              "expanded_url": "https://x.com/liulingyo/status/2074112010162458758/photo/1",
+              "media_key": "3_2074111977354637313",
+              "start": 35,
+              "url": "https://t.co/hhlTCUAnIG"
+            },
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/liulingyo/status/2074101387835957561",
+              "start": 59,
+              "url": "https://t.co/h0Tzzo3Byo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074112010162458758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9813,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074101387835957561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也是跑到酒店了😋终于缓过来了 还好他们不知道学校还有一个比较隐蔽的门 https://t.co/hhlTCUAnIG https://t.co/h0Tzzo3Byo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "瓜雅泊，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 1156,
+          "like_count": 2815,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "mtf，19，175，55，果粉，性取向男，日语，简/繁中，hrt🍥2024.10，对象：@GanYuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "浙",
+        "name": "悠悠🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2070128880044879960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071264803205906432/7GHE-cjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 984,
+          "like_count": 3934,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2054846797907202480",
+    "created_at": "2026-05-15T05:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055156059938144313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967101726739361792",
+          "start": 0,
+          "username": "QiChen520h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055156059938144313",
+    "in_reply_to_user_id": "1967101726739361792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054846797907202480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiChen520h 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054846786146308096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRIQ9QakAAf2Pc.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2054846797907202480",
+        "created_at": "2026-05-15T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055156059938144313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967101726739361792",
+              "start": 0,
+              "username": "QiChen520h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055156059938144313",
+        "in_reply_to_user_id": "1967101726739361792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054846797907202480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiChen520h 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054846786146308096"
+          ]
+        },
+        "author_id": "1967101726739361792",
+        "conversation_id": "2054846797907202480",
+        "created_at": "2026-05-14T08:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054846797907202480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "xyn"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "木桶饭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMpbERvk12",
+              "end": 45,
+              "expanded_url": "https://x.com/QiChen520h/status/2054846797907202480/photo/1",
+              "media_key": "3_2054846786146308096",
+              "start": 22,
+              "url": "https://t.co/pMpbERvk12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054846797907202480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2809,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌激素真是个神奇的东西…#xyn #木桶饭 https://t.co/pMpbERvk12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注-同类互fo\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 535,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T05:43:05.000Z",
+        "description": "17岁小药娘/无证含糖🍬/已出柜/家长不管党/26.1.15hrt🏳️‍⚧️/射手座♐️/双相/心境/重度焦虑抑郁/08出厂/174cm50kg/谢谢关注喵",
+        "id": "1967101726739361792",
+        "location": "福福的梦…",
+        "name": "福福OvO🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054377177337241957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050171269291941888/8uT0c83z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 43,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 91
+        },
+        "username": "QiChen520h",
+        "verified": false
+      }
+    ]
+  }
+}

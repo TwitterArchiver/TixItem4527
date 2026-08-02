@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2047637910116327771",
+    "created_at": "2026-05-11T13:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053822842362593706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046238259919912960",
+          "start": 0,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053822842362593706",
+    "in_reply_to_user_id": "2046238259919912960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047637910116327771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Type_zhi 关不掉这种学校的根本原因还是有保护伞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2047637910116327771",
+        "created_at": "2026-05-11T13:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053822842362593706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046238259919912960",
+              "start": 0,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053822842362593706",
+        "in_reply_to_user_id": "2046238259919912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047637910116327771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Type_zhi 关不掉这种学校的根本原因还是有保护伞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046238259919912960",
+        "conversation_id": "2047637910116327771",
+        "created_at": "2026-04-24T11:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047637910116327771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/siyu060910/status/2047415193442161080",
+              "start": 39,
+              "url": "https://t.co/sosuu6GdOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047637910116327771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2594,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415193442161080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得应该从上到下给整个体系的人不管是贪官还是最底层的教官都打成筛子以绝后患 https://t.co/sosuu6GdOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/yojrEEdLDB"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 513,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/yojrEEdLDB",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07 03:37/在读女高（确信）/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "https://typezhi.top/",
+                "start": 0,
+                "url": "https://t.co/ff58O0W0jN"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 543,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/ff58O0W0jN",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

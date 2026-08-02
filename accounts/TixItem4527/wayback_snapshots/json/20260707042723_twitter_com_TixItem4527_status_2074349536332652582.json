@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2074056346119672228",
+    "created_at": "2026-07-07T04:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074349536332652582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699282628560748544",
+          "start": 0,
+          "username": "tingkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074349536332652582",
+    "in_reply_to_user_id": "1699282628560748544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074056346119672228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingkawayi 把石子取出来开一下看看里面有没有翡翠()😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074056336044871680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiHP7IaUAA9DW2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2074056346119672228",
+        "created_at": "2026-07-07T04:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074349536332652582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699282628560748544",
+              "start": 0,
+              "username": "tingkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349536332652582",
+        "in_reply_to_user_id": "1699282628560748544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074056346119672228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingkawayi 把石子取出来开一下看看里面有没有翡翠()😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074056336044871680"
+          ]
+        },
+        "author_id": "1699282628560748544",
+        "conversation_id": "2074056346119672228",
+        "created_at": "2026-07-06T09:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074056346119672228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/myjWZJc5zr",
+              "end": 77,
+              "expanded_url": "https://x.com/tingkawayi/status/2074056346119672228/photo/1",
+              "media_key": "3_2074056336044871680",
+              "start": 54,
+              "url": "https://t.co/myjWZJc5zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074056346119672228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2322,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播进医院了，没想到我年纪轻轻还能得肾结石。。而且这玩意真的剧痛，痛的我动弹不了还是120给我抬过来的。。 https://t.co/myjWZJc5zr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "瓜雅泊，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1159,
+          "like_count": 2839,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:45:33.000Z",
+        "description": "想被关注呜，同类互关，没回就是漏了",
+        "id": "1699282628560748544",
+        "location": "河南洛阳",
+        "name": "町🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018304464911028224/k-Z0w2qM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8771,
+          "following_count": 608,
+          "like_count": 383,
+          "listed_count": 14,
+          "media_count": 113,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "tingkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

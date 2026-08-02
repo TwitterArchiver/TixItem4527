@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082992420074233856"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2082992783330263470",
+    "created_at": "2026-07-31T00:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082992783330263470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 3,
+          "tag": "dancingline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8afFhPNgws",
+          "end": 39,
+          "expanded_url": "https://x.com/TixItem4527/status/2082992783330263470/video/1",
+          "media_key": "13_2082992420074233856",
+          "start": 16,
+          "url": "https://t.co/8afFhPNgws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082992783330263470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "旅程\n#dancingline https://t.co/8afFhPNgws"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138546,
+        "height": 576,
+        "media_key": "13_2082992420074233856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082992420074233856/img/hzTGM8ShUUQNZn7M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082992420074233856/vid/avc1/600x270/Hz8slHf5AXZsJxqw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082992420074233856/vid/avc1/800x360/9oZq5LtYUWQmgYCO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082992420074233856/vid/avc1/1280x576/zyoQFAVxMevRI8hQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082992420074233856/pl/H_gPP_T-59Go1OTw.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082992420074233856"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2082992783330263470",
+        "created_at": "2026-07-31T00:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082992783330263470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 3,
+              "tag": "dancingline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8afFhPNgws",
+              "end": 39,
+              "expanded_url": "https://x.com/TixItem4527/status/2082992783330263470/video/1",
+              "media_key": "13_2082992420074233856",
+              "start": 16,
+              "url": "https://t.co/8afFhPNgws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082992783330263470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旅程\n#dancingline https://t.co/8afFhPNgws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 1284,
+          "like_count": 3667,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2071951219204219247",
+    "created_at": "2026-07-02T03:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072516452918370418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047679401400373248",
+          "start": 0,
+          "username": "Hysteriadie0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072516452918370418",
+    "in_reply_to_user_id": "2047679401400373248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071951219204219247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hysteriadie0331 摸摸，想发就发，我已经靠发吸引顺直评论弄掉一个转发咱同类的帖子的视频了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2071951219204219247",
+        "created_at": "2026-07-02T03:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072516452918370418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047679401400373248",
+              "start": 0,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072516452918370418",
+        "in_reply_to_user_id": "2047679401400373248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071951219204219247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hysteriadie0331 摸摸，想发就发，我已经靠发吸引顺直评论弄掉一个转发咱同类的帖子的视频了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047679401400373248",
+        "conversation_id": "2071951219204219247",
+        "created_at": "2026-06-30T13:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071951219204219247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071951219204219247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1278,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想啊...但是不能发影响人的推文...可能会被挂国内平台，不敢发了...不想被人骂..只在自己的地方发疯..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "北方阵线控制区，瓜雅泊，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 983,
+          "like_count": 2312,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "2009｜mtf｜中度GD🏳️‍⚧️｜间断含糖25.05.01🍥｜易性症病历｜家长反对党｜天残党｜INFP-T｜BPD｜一个坏孩子｜温柔体贴善良｜社交回避-自闭倾向｜疑似精神病友｜同类fo｜请和咱交朋友嘛~｜咱不喜欢屏蔽人，被屏蔽会特别难过...｜一只小透明｜恋人@ting_xia91591",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "ting_xia91591"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet",
+        "name": "宋汐雪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062597586629136506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062933678091907073/WVEosNLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 381,
+          "like_count": 97,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

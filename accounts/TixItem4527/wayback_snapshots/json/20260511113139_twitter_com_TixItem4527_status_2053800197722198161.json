@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053800126452486144",
+        "3_2053800126448279552",
+        "3_2053800126452563968",
+        "3_2053800126439952384"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053800197722198161",
+    "created_at": "2026-05-11T11:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053800197722198161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3K1lsqDu7O",
+          "end": 51,
+          "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+          "media_key": "3_2053800126452486144",
+          "start": 28,
+          "url": "https://t.co/3K1lsqDu7O"
+        },
+        {
+          "display_url": "pic.x.com/3K1lsqDu7O",
+          "end": 51,
+          "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+          "media_key": "3_2053800126448279552",
+          "start": 28,
+          "url": "https://t.co/3K1lsqDu7O"
+        },
+        {
+          "display_url": "pic.x.com/3K1lsqDu7O",
+          "end": 51,
+          "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+          "media_key": "3_2053800126452563968",
+          "start": 28,
+          "url": "https://t.co/3K1lsqDu7O"
+        },
+        {
+          "display_url": "pic.x.com/3K1lsqDu7O",
+          "end": 51,
+          "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+          "media_key": "3_2053800126439952384",
+          "start": 28,
+          "url": "https://t.co/3K1lsqDu7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053800197722198161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好累啊最近X都懒得登了还是朋友一提到才想起来好久没上了 https://t.co/3K1lsqDu7O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2053800126452486144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICQVWDaUAAFNAt.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2053800126448279552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICQVWCaIAAgnTI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2053800126452563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICQVWDbgAAC7DV.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2053800126439952384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICQVWAbEAANka8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053800126452486144",
+            "3_2053800126448279552",
+            "3_2053800126452563968",
+            "3_2053800126439952384"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053800197722198161",
+        "created_at": "2026-05-11T11:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053800197722198161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3K1lsqDu7O",
+              "end": 51,
+              "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+              "media_key": "3_2053800126452486144",
+              "start": 28,
+              "url": "https://t.co/3K1lsqDu7O"
+            },
+            {
+              "display_url": "pic.x.com/3K1lsqDu7O",
+              "end": 51,
+              "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+              "media_key": "3_2053800126448279552",
+              "start": 28,
+              "url": "https://t.co/3K1lsqDu7O"
+            },
+            {
+              "display_url": "pic.x.com/3K1lsqDu7O",
+              "end": 51,
+              "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+              "media_key": "3_2053800126452563968",
+              "start": 28,
+              "url": "https://t.co/3K1lsqDu7O"
+            },
+            {
+              "display_url": "pic.x.com/3K1lsqDu7O",
+              "end": 51,
+              "expanded_url": "https://x.com/TixItem4527/status/2053800197722198161/photo/1",
+              "media_key": "3_2053800126439952384",
+              "start": 28,
+              "url": "https://t.co/3K1lsqDu7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053800197722198161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累啊最近X都懒得登了还是朋友一提到才想起来好久没上了 https://t.co/3K1lsqDu7O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/yojrEEdLDB"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 511,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/yojrEEdLDB",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

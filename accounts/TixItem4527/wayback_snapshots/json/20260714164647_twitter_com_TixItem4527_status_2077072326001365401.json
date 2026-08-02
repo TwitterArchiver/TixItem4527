@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2076977521552482616",
+    "created_at": "2026-07-14T16:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077072326001365401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740708998524141568",
+          "start": 0,
+          "username": "gaga860166912"
+        },
+        {
+          "end": 25,
+          "id": "2061329105266831360",
+          "start": 15,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077072326001365401",
+    "in_reply_to_user_id": "1740708998524141568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077015307387068854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga860166912 @yangion73 没头像没像样名称的伪人别发评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2076977521552482616",
+        "created_at": "2026-07-14T16:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077072326001365401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740708998524141568",
+              "start": 0,
+              "username": "gaga860166912"
+            },
+            {
+              "end": 25,
+              "id": "2061329105266831360",
+              "start": 15,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077072326001365401",
+        "in_reply_to_user_id": "1740708998524141568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077015307387068854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga860166912 @yangion73 没头像没像样名称的伪人别发评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740708998524141568",
+        "conversation_id": "2076977521552482616",
+        "created_at": "2026-07-14T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077015307387068854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077015307387068854",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076977521552482616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 “四月份开始吃激素之后，孩子 5 月份就自杀了”\n\n就是如此阿! 看一下hrt 對情緒障礙影響~\n\n看看整個x推特跨跨們 自殘自盡自閹 顯著表達出來~\n\n你還在怪別人啊 ! 笑死~ 進入跨跨輪迴~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "天空城F76",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1200,
+          "like_count": 3114,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "pinned_tweet_id": "2069759036455882944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 17,
+          "like_count": 33,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 6512
+        },
+        "url": "",
+        "username": "gaga860166912",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 \n无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧|重抑重焦|\n 欢迎互 fo 呀\n同类有看见必回 fo",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 193,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

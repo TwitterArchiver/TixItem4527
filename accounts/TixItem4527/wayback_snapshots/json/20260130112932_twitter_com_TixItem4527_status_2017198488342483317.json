@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2017139914287227149",
+    "created_at": "2026-01-30T11:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017198488342483317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642270015851474944",
+          "start": 0,
+          "username": "SUNWUTSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017198488342483317",
+    "in_reply_to_user_id": "1642270015851474944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017139914287227149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUNWUTSE 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2017139903147188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5SDf1aoAA_C5d.jpg",
+        "width": 1303
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2017139914287227149",
+        "created_at": "2026-01-30T11:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017198488342483317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642270015851474944",
+              "start": 0,
+              "username": "SUNWUTSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017198488342483317",
+        "in_reply_to_user_id": "1642270015851474944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017139914287227149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUNWUTSE 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017139903147188224"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017139914287227149",
+        "created_at": "2026-01-30T07:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017139914287227149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdQEVZqId5",
+              "end": 32,
+              "expanded_url": "https://x.com/SUNWUTSE/status/2017139914287227149/photo/1",
+              "media_key": "3_2017139903147188224",
+              "start": 9,
+              "url": "https://t.co/NdQEVZqId5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017139914287227149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好哈夫币（） https://t.co/NdQEVZqId5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|11年的药药|无心理疾病|不割手手不涩涩|175cm(有点高好烦恼)|60kg|梦想是有吃不完的糖和一台电脑|有点社恐|INFP|爱玩游戏|\n平时会发一些日常和游戏之类的捏，偶尔女装。\n跨跨帮跨跨，有问题可发邮件至3810725172@qq.com哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorW6hu"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 68,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/69aJorW6hu",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "曾经的悲观阴郁币/咱叫吴水琦(网名吴雾晨)/梦想做一个北欧小姑娘/怨气比较大的小猫(bushi/喜欢一切可可爱爱的东西❤️/老公sama:@YeziLoveChen/对生活保持热爱/mtf🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "Urumqi China",
+        "name": "霧會散（霧晨晨）🌫️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016883938665648133/HbJBWGjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 362,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1003
+        },
+        "username": "SUNWUTSE",
+        "verified": false
+      }
+    ]
+  }
+}

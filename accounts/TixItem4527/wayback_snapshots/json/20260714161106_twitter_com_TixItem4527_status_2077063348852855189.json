@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2077002602429256064",
+    "created_at": "2026-07-14T16:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077063348852855189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822170840231776256",
+          "start": 0,
+          "username": "mofa_ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077063348852855189",
+    "in_reply_to_user_id": "1822170840231776256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077002602429256064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofa_ee 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077002599598059520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL-3CKa8AAwO0b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2077002602429256064",
+        "created_at": "2026-07-14T16:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077063348852855189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822170840231776256",
+              "start": 0,
+              "username": "mofa_ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077063348852855189",
+        "in_reply_to_user_id": "1822170840231776256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077002602429256064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofa_ee 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077002599598059520"
+          ]
+        },
+        "author_id": "1822170840231776256",
+        "conversation_id": "2077002602429256064",
+        "created_at": "2026-07-14T12:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077002602429256064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gi6zLxKUvO",
+              "end": 53,
+              "expanded_url": "https://x.com/mofa_ee/status/2077002602429256064/photo/1",
+              "media_key": "3_2077002599598059520",
+              "start": 30,
+              "url": "https://t.co/gi6zLxKUvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077002602429256064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在精卫藏药成功，就是在舌头上的药好苦，感觉舌头都没知觉了咕 https://t.co/gi6zLxKUvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "天空城F76",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1195,
+          "like_count": 3094,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:19:38.000Z",
+        "description": "mtf | 无证含糖🍥 | 断糖中 | 不确定家长管不管党 | hrt💊2026.5.10 | 誕生日🍰2006.9 | 168cm 57kg | infp | 是只鸽子~ | 好孤独，想要得到关注 | 爱好是画画，术曲，有时会唱点歌 | 现在在山东省精卫里咕… | 闺蜜：@mizukishi316",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 137,
+                "username": "mizukishi316"
+              }
+            ]
+          }
+        },
+        "id": "1822170840231776256",
+        "location": "山东省精神卫生中心",
+        "name": "已成汤的魔法鸽🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064207287808557056/uV314pUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 210,
+          "like_count": 842,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "mofa_ee",
+        "verified": false
+      }
+    ]
+  }
+}

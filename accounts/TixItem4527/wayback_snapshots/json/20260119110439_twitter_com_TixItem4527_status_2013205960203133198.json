@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2013205960203133198",
+    "created_at": "2026-01-19T11:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T12:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013205960203133198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012084763184730112",
+          "start": 3,
+          "username": "hrtmeng"
+        }
+      ],
+      "urls": [
+        {
+          "description": "专业好吃HRT牌糖果店💊小药娘🏳️‍⚧️的不二之选!好吃不贵!全国现货✅需要的宝子即可找我 下单！推特号HRTmengmeng",
+          "display_url": "t.me/mengmeng715",
+          "end": 88,
+          "expanded_url": "http://t.me/mengmeng715",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2011685280743636994/rVXSpYOb?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2011685280743636994/rVXSpYOb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "檬 檬",
+          "unwound_url": "https://t.me/mengmeng715",
+          "url": "https://t.co/LcmZp1ljF2"
+        },
+        {
+          "description": "买糖找客服@mengmeng715，请注意不要相信主动加您的人都是骗子！",
+          "display_url": "t.me/HRTMTF",
+          "end": 131,
+          "expanded_url": "http://t.me/HRTMTF",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2011682483977211904/xCbmsHIq?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2011682483977211904/xCbmsHIq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "🏳️‍⚧️檬檬木桶饭MTF糖果屋🍥🍬",
+          "unwound_url": "https://t.me/HRTMTF",
+          "url": "https://t.co/1gomcR0nTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013205960203133198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013204926198071411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hrtmeng: 🔝置顶\n大家好，我是糖商檬檬🍥 上次账号出了点小状况🥹\n有想聊的、问事情的，欢迎通过Telegram找我https://t.co/LcmZp1ljF2  \n\n另外真的超级推荐加入我们的频道 https://t.co/1gomcR0nTk，里面有很多干货…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2013205960203133198",
+        "created_at": "2026-01-19T11:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013205960203133198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012084763184730112",
+              "start": 3,
+              "username": "hrtmeng"
+            }
+          ],
+          "urls": [
+            {
+              "description": "专业好吃HRT牌糖果店💊小药娘🏳️‍⚧️的不二之选!好吃不贵!全国现货✅需要的宝子即可找我 下单！推特号HRTmengmeng",
+              "display_url": "t.me/mengmeng715",
+              "end": 88,
+              "expanded_url": "http://t.me/mengmeng715",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2011685280743636994/rVXSpYOb?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011685280743636994/rVXSpYOb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "檬 檬",
+              "unwound_url": "https://t.me/mengmeng715",
+              "url": "https://t.co/LcmZp1ljF2"
+            },
+            {
+              "description": "买糖找客服@mengmeng715，请注意不要相信主动加您的人都是骗子！",
+              "display_url": "t.me/HRTMTF",
+              "end": 131,
+              "expanded_url": "http://t.me/HRTMTF",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2011682483977211904/xCbmsHIq?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011682483977211904/xCbmsHIq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "🏳️‍⚧️檬檬木桶饭MTF糖果屋🍥🍬",
+              "unwound_url": "https://t.me/HRTMTF",
+              "url": "https://t.co/1gomcR0nTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013205960203133198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013204926198071411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hrtmeng: 🔝置顶\n大家好，我是糖商檬檬🍥 上次账号出了点小状况🥹\n有想聊的、问事情的，欢迎通过Telegram找我https://t.co/LcmZp1ljF2  \n\n另外真的超级推荐加入我们的频道 https://t.co/1gomcR0nTk，里面有很多干货…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012084763184730112",
+        "conversation_id": "2013204926198071411",
+        "created_at": "2026-01-19T11:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013204926198071411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "专业好吃HRT牌糖果店💊小药娘🏳️‍⚧️的不二之选!好吃不贵!全国现货✅需要的宝子即可找我 下单！推特号HRTmengmeng",
+              "display_url": "t.me/mengmeng715",
+              "end": 75,
+              "expanded_url": "http://t.me/mengmeng715",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2011685280743636994/rVXSpYOb?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011685280743636994/rVXSpYOb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "檬 檬",
+              "unwound_url": "https://t.me/mengmeng715",
+              "url": "https://t.co/LcmZp1ljF2"
+            },
+            {
+              "description": "买糖找客服@mengmeng715，请注意不要相信主动加您的人都是骗子！",
+              "display_url": "t.me/HRTMTF",
+              "end": 118,
+              "expanded_url": "http://t.me/HRTMTF",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2011682483977211904/xCbmsHIq?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011682483977211904/xCbmsHIq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "🏳️‍⚧️檬檬木桶饭MTF糖果屋🍥🍬",
+              "unwound_url": "https://t.me/HRTMTF",
+              "url": "https://t.co/1gomcR0nTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013204926198071411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶\n大家好，我是糖商檬檬🍥 上次账号出了点小状况🥹\n有想聊的、问事情的，欢迎通过Telegram找我https://t.co/LcmZp1ljF2  \n\n另外真的超级推荐加入我们的频道 https://t.co/1gomcR0nTk，里面有很多干货和姐妹们的经验分享～  \n\n拜托大家帮忙转发一下这条，让更多迷路的宝宝看到，谢谢你们啦！🙏💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|11年的药药|无心理疾病|不割手手不涩涩|175cm(有点高好烦恼)|60kg|梦想是有吃不完的糖和一台电脑|有点社恐|INFP|爱玩游戏|\n平时会发一些日常和游戏之类的捏，偶尔女装。\n跨跨帮跨跨，有问题可发邮件至3810725172@qq.com哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorW6hu"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 65,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/69aJorW6hu",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T08:49:36.000Z",
+        "description": "08预备女大 / 糖商🍬🏪 / LGBT友好🏳️‍🌈🏳️‍⚧️欢迎和我互fo / 咨询补色雌诺比卡凝胶进TG：https://t.co/0QqsYweZwu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HRTMTF",
+                "end": 78,
+                "expanded_url": "http://t.me/HRTMTF",
+                "start": 55,
+                "url": "https://t.co/0QqsYweZwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mengmeng715",
+                "end": 23,
+                "expanded_url": "https://t.me/mengmeng715",
+                "start": 0,
+                "url": "https://t.co/SnSrDRw7oA"
+              }
+            ]
+          }
+        },
+        "id": "2012084763184730112",
+        "location": "🍬🏪",
+        "name": "檬檬🍥🏳️‍⚧️糖商",
+        "pinned_tweet_id": "2013204926198071411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012084977144586240/7YTk0_Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/SnSrDRw7oA",
+        "username": "hrtmeng",
+        "verified": false
+      }
+    ]
+  }
+}

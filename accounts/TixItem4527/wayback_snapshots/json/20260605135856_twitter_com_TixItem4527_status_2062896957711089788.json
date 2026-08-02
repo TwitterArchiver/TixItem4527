@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2062400196328444128",
+    "created_at": "2026-06-05T13:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062896957711089788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3300741805",
+          "start": 0,
+          "username": "naypi85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062896957711089788",
+    "in_reply_to_user_id": "3300741805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062407022235324684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naypi85 前面在吃国补"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2062400196328444128",
+        "created_at": "2026-06-05T13:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062896957711089788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3300741805",
+              "start": 0,
+              "username": "naypi85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062896957711089788",
+        "in_reply_to_user_id": "3300741805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062407022235324684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naypi85 前面在吃国补"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3300741805",
+        "conversation_id": "2062400196328444128",
+        "created_at": "2026-06-04T05:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062407022235324684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062407022235324684",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062400196328444128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 怎么隔这么久才吃补"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 629,
+          "like_count": 1650,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-29T16:23:03.000Z",
+        "description": "北京社畜 | 正常人类 | INTJ-A | 直球 | 理性人 | 泛性向 | 边缘偏好 | 音游 | 机车 | 铲屎官\nIIDX（2P六段）、SDVX（vf18.4）、DDR（SP六段）\n魔怔wmc爬",
+        "id": "3300741805",
+        "location": "北京",
+        "name": "红茶叶泡芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287712656984424453/xwlHCjiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 3867
+        },
+        "username": "naypi85",
+        "verified": false
+      }
+    ]
+  }
+}

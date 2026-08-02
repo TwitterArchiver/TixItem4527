@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2072903116694147170",
+    "created_at": "2026-07-03T16:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073082367351390419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878984105183920128",
+          "start": 0,
+          "username": "EternalSterne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073082367351390419",
+    "in_reply_to_user_id": "1878984105183920128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073015389316129001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EternalSterne 江西怎么说，我感觉缺点是环境差🤒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2072903116694147170",
+        "created_at": "2026-07-03T16:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073082367351390419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878984105183920128",
+              "start": 0,
+              "username": "EternalSterne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073082367351390419",
+        "in_reply_to_user_id": "1878984105183920128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073015389316129001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EternalSterne 江西怎么说，我感觉缺点是环境差🤒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878984105183920128",
+        "conversation_id": "2072903116694147170",
+        "created_at": "2026-07-03T12:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073015389316129001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073015389316129001",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072903116694147170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 这分地方吧。要是河北公立就很恐怖了。像直辖市，或者本来就在市中心的学校应该会允许走读的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "南方阵线控制区，海滨度假区，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1038,
+          "like_count": 2464,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T01:55:16.000Z",
+        "description": "私わSternenstaub☆Lichtyahr「凌恒」Foreverです☆~\nOtaku + Linux & FOSS\nCapabwe of a bit Python, C++, Html\nCaww me if you want newbee contributor to mess up poi☆ject~",
+        "id": "1878984105183920128",
+        "location": "Mars (+8:00 UTC)",
+        "name": "Lichtyahr☮Σternenstaub💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878984195604951040/ku0c466G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 59,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "EternalSterne",
+        "verified": false
+      }
+    ]
+  }
+}

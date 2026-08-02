@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "1923698114655027476",
+    "created_at": "2025-05-17T11:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T12:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923707002091422121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1047053292587638786",
+          "start": 0,
+          "username": "Jerry00107966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923707002091422121",
+    "in_reply_to_user_id": "1047053292587638786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923698114655027476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerry00107966 台独狗又开始叫了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923698099769253888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJZOsPXIAAmiej.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "1923698114655027476",
+        "created_at": "2025-05-17T11:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923707002091422121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1047053292587638786",
+              "start": 0,
+              "username": "Jerry00107966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923707002091422121",
+        "in_reply_to_user_id": "1047053292587638786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923698114655027476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerry00107966 台独狗又开始叫了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923698099769253888"
+          ]
+        },
+        "author_id": "1047053292587638786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          }
+        ],
+        "conversation_id": "1923698114655027476",
+        "created_at": "2025-05-17T11:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923698114655027476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8D3DjNJu1",
+              "end": 87,
+              "expanded_url": "https://x.com/Jerry00107966/status/1923698114655027476/photo/1",
+              "media_key": "3_1923698099769253888",
+              "start": 64,
+              "url": "https://t.co/h8D3DjNJu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923698114655027476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "5月14日兩名中國籍男子，在日本埼玉縣駕車衝撞四名小學生後逃逸。\n\n感觉脑袋带毒的中国人去日本的越来越多了，日本是不是要遭殃？ https://t.co/h8D3DjNJu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "This is not BIO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.twitter.com",
+                "start": 0,
+                "url": "https://t.co/fmtpFOSZoQ"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-Jiangxi-Ganzhou",
+        "name": "TixItem4527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/fmtpFOSZoQ",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T09:18:53.000Z",
+        "description": "推荐：请关注推特最大中文群《自由中国》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1670509573885825026",
+                "start": 0,
+                "url": "https://t.co/2WWGKZ3Epy"
+              }
+            ]
+          }
+        },
+        "id": "1047053292587638786",
+        "location": "Australia",
+        "name": "悉尼閑人",
+        "pinned_tweet_id": "1423889270754840579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421761336371924993/ilIAdLkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124830,
+          "following_count": 2755,
+          "like_count": 136189,
+          "listed_count": 479,
+          "media_count": 22601,
+          "tweet_count": 72235
+        },
+        "url": "https://t.co/2WWGKZ3Epy",
+        "username": "Jerry00107966",
+        "verified": true
+      }
+    ]
+  }
+}

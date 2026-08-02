@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2055300132497944661",
+    "created_at": "2026-05-16T16:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055679731908137350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730923014471180288",
+          "start": 0,
+          "username": "lxltanya1811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055679731908137350",
+    "in_reply_to_user_id": "1730923014471180288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055300132497944661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@lxltanya1811 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055300125027930112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXkkwMbEAAi6Tu.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2055300132497944661",
+        "created_at": "2026-05-16T16:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055679731908137350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "lxltanya1811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055679731908137350",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055300132497944661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lxltanya1811 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055300125027930112"
+          ]
+        },
+        "author_id": "1730923014471180288",
+        "conversation_id": "2055300132497944661",
+        "created_at": "2026-05-15T14:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055300132497944661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBUgA24QEf",
+              "end": 33,
+              "expanded_url": "https://x.com/sunnyz1811/status/2055300132497944661/photo/1",
+              "media_key": "3_2055300125027930112",
+              "start": 10,
+              "url": "https://t.co/sBUgA24QEf"
+            },
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2054994576012906648",
+              "start": 34,
+              "url": "https://t.co/ureP24Jj4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055300132497944661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 257,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054994576012906648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "一天就多了两个人😭 https://t.co/sBUgA24QEf https://t.co/ureP24Jj4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注-同类互fo\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 564,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我梦欣或者Tanya/女性-Female/@Sydney_Uni and @UNSW alumni. Birthday 2 July 1998 and 18 November 2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "SSF Syd",
+        "name": "绫小路梦欣",
+        "pinned_tweet_id": "2042265408103960911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028668925245100032/NjwfJ8m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 257,
+          "like_count": 483,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 5416
+        },
+        "username": "lxltanya1811",
+        "verified": true
+      }
+    ]
+  }
+}

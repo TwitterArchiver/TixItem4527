@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078865582875987968"
+      ],
+      "media_source_tweet_id": [
+        "2078865594091540833"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2078915314117660766",
+    "created_at": "2026-07-19T18:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078915314117660766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047433069116719104",
+          "start": 3,
+          "username": "N552AA8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ifZ7Eve6D",
+          "end": 48,
+          "expanded_url": "https://x.com/N552AA8/status/2078865594091540833/photo/1",
+          "media_key": "3_2078865582875987968",
+          "start": 25,
+          "url": "https://t.co/3ifZ7Eve6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078915314117660766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078865594091540833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA8: 遇事不慌先拍照发朋友圈 https://t.co/3ifZ7Eve6D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078865582875987968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmdO7sb0AAl7DG.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078865582875987968"
+          ]
+        },
+        "author_id": "2047433069116719104",
+        "conversation_id": "2078865594091540833",
+        "created_at": "2026-07-19T15:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078865594091540833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ifZ7Eve6D",
+              "end": 35,
+              "expanded_url": "https://x.com/N552AA8/status/2078865594091540833/photo/1",
+              "media_key": "3_2078865582875987968",
+              "start": 12,
+              "url": "https://t.co/3ifZ7Eve6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078865594091540833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "遇事不慌先拍照发朋友圈 https://t.co/3ifZ7Eve6D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078865582875987968"
+          ],
+          "media_source_tweet_id": [
+            "2078865594091540833"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2078915314117660766",
+        "created_at": "2026-07-19T18:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078915314117660766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047433069116719104",
+              "start": 3,
+              "username": "N552AA8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ifZ7Eve6D",
+              "end": 48,
+              "expanded_url": "https://x.com/N552AA8/status/2078865594091540833/photo/1",
+              "media_key": "3_2078865582875987968",
+              "start": 25,
+              "url": "https://t.co/3ifZ7Eve6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078915314117660766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078865594091540833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA8: 遇事不慌先拍照发朋友圈 https://t.co/3ifZ7Eve6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1232,
+          "like_count": 3312,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/BPD/快速循环型双相/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 110,
+          "like_count": 172,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false
+      }
+    ]
+  }
+}

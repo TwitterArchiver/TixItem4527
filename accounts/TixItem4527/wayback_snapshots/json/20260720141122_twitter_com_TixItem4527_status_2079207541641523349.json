@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2078806970904289502",
+    "created_at": "2026-07-20T14:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079207541641523349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944698693757927425",
+          "start": 0,
+          "username": "LinFengAce"
+        },
+        {
+          "end": 23,
+          "id": "2033116026410598400",
+          "start": 12,
+          "username": "Irosas_xyn"
+        },
+        {
+          "end": 37,
+          "id": "1300828282061877249",
+          "start": 24,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 50,
+          "id": "1585145286598483968",
+          "start": 38,
+          "username": "lianyiganyu"
+        },
+        {
+          "end": 58,
+          "id": "2077948471366029312",
+          "start": 51,
+          "username": "qpmwao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079207541641523349",
+    "in_reply_to_user_id": "1944698693757927425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079190707626221912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinFengAce @Irosas_xyn @HANLIANYI331 @lianyiganyu @qpmwao 太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079190704581136384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrE7gbaUAAtlm6.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2078806970904289502",
+        "created_at": "2026-07-20T14:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079207541641523349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944698693757927425",
+              "start": 0,
+              "username": "LinFengAce"
+            },
+            {
+              "end": 23,
+              "id": "2033116026410598400",
+              "start": 12,
+              "username": "Irosas_xyn"
+            },
+            {
+              "end": 37,
+              "id": "1300828282061877249",
+              "start": 24,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 50,
+              "id": "1585145286598483968",
+              "start": 38,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 58,
+              "id": "2077948471366029312",
+              "start": 51,
+              "username": "qpmwao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079207541641523349",
+        "in_reply_to_user_id": "1944698693757927425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190707626221912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinFengAce @Irosas_xyn @HANLIANYI331 @lianyiganyu @qpmwao 太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079190704581136384"
+          ]
+        },
+        "author_id": "1944698693757927425",
+        "conversation_id": "2078806970904289502",
+        "created_at": "2026-07-20T13:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079190707626221912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            },
+            {
+              "end": 24,
+              "id": "1708446662514110464",
+              "start": 12,
+              "username": "TixItem4527"
+            },
+            {
+              "end": 38,
+              "id": "1300828282061877249",
+              "start": 25,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 51,
+              "id": "1585145286598483968",
+              "start": 39,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 59,
+              "id": "2077948471366029312",
+              "start": 52,
+              "username": "qpmwao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmsxwasQis",
+              "end": 88,
+              "expanded_url": "https://x.com/LinFengAce/status/2079190707626221912/photo/1",
+              "media_key": "3_2079190704581136384",
+              "start": 65,
+              "url": "https://t.co/fmsxwasQis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079190707626221912",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078806970904289502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn @TixItem4527 @HANLIANYI331 @lianyiganyu @qpmwao 救回来了 https://t.co/fmsxwasQis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 1236,
+          "like_count": 3372,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:01:35.000Z",
+        "description": "机器人广告账号求求你们不要followme😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NebulaDawn888",
+                "end": 23,
+                "expanded_url": "http://t.me/NebulaDawn888",
+                "start": 0,
+                "url": "https://t.co/DDDPvLf5et"
+              }
+            ]
+          }
+        },
+        "id": "1944698693757927425",
+        "location": "Monterey Park, CA",
+        "name": "NebulaDawn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078557834032422912/aiJiSUT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 45,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/DDDPvLf5et",
+        "username": "LinFengAce",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF | les | 出厂年份11 | 🍥26.04.30 | 无证含糖 | 不键不O不割 | 休学ing | 182cm😭 BMI 27+😭\nサブ垢：@Irosas_sub\n无墙内联系方式\n给我私信喵 https://t.co/4Ea9D5x42k\n同类会尽量回fo\n匿名提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 126,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 103,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/lPmbVtIV4t"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078116422644109710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 188,
+          "like_count": 583,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/lPmbVtIV4t",
+        "username": "Irosas_xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42016,
+          "following_count": 3950,
+          "like_count": 1916,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 3086
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3947,
+          "following_count": 6,
+          "like_count": 57,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T02:49:24.000Z",
+        "description": "10/药娘/男娘含糖新进亚空间/enfp/重抑重焦伴随精神分裂，双相情感障碍/男，/解离性身份障碍/不喜可挂壁，/生产日期2010/木桶饭喵🏳️‍⚧️🍥🏳️‍⚧️🍥",
+        "id": "2077948471366029312",
+        "location": "西伯利亚/Ch/南北极圈游荡者",
+        "name": "玄宁茶🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078863282278981632/D6LIcLl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 43,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "qpmwao",
+        "verified": false
+      }
+    ]
+  }
+}

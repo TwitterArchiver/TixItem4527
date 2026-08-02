@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2045386511831715971",
+    "created_at": "2026-04-18T06:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045386511831715971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449853213974528",
+          "start": 3,
+          "username": "xiaojiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045386511831715971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045215459092668753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojiangnie: 我是女生我是女生我是女生我是女生我是女生我是女生我是女生我是女生，鬼才要当男生！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2045386511831715971",
+        "created_at": "2026-04-18T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045386511831715971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449853213974528",
+              "start": 3,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045386511831715971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045215459092668753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojiangnie: 我是女生我是女生我是女生我是女生我是女生我是女生我是女生我是女生，鬼才要当男生！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449853213974528",
+        "conversation_id": "2045215459092668753",
+        "created_at": "2026-04-17T18:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045215459092668753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TixItem4527/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/TixItem4527/status/2044909772437356947",
+              "start": 43,
+              "url": "https://t.co/sHziomtO08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045215459092668753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044909772437356947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是女生我是女生我是女生我是女生我是女生我是女生我是女生我是女生，鬼才要当男生！！！ https://t.co/sHziomtO08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingju.org/2189.html",
+                "end": 23,
+                "expanded_url": "https://www.qingju.org/2189.html",
+                "start": 0,
+                "url": "https://t.co/KFqXBf579u"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 416,
+          "like_count": 987,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/KFqXBf579u",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵 hrt🍥2026.3.28 已炸柜（第三天炸柜极速版）出厂日期2009.12.17 偏天赋一点天生雌高喵～ 蓄发中喵，闲的没事就爱吃点小糖呀喵🍥纯小0一个喵～咱是心理委员喵，有不开心的阔以找咱呀喵～",
+        "id": "2041449853213974528",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 68,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "xiaojiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

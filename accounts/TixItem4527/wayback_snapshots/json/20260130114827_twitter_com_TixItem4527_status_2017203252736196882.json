@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017203249850597376"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017203252736196882",
+    "created_at": "2026-01-30T11:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017203252736196882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CECoSMuNkq",
+          "end": 31,
+          "expanded_url": "https://x.com/TixItem4527/status/2017203252736196882/photo/1",
+          "media_key": "3_2017203249850597376",
+          "start": 8,
+          "url": "https://t.co/CECoSMuNkq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017203252736196882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唔，谁还记得她 https://t.co/CECoSMuNkq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2017203249850597376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6LqwsbwAA8BBx.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017203249850597376"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017203252736196882",
+        "created_at": "2026-01-30T11:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017203252736196882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CECoSMuNkq",
+              "end": 31,
+              "expanded_url": "https://x.com/TixItem4527/status/2017203252736196882/photo/1",
+              "media_key": "3_2017203249850597376",
+              "start": 8,
+              "url": "https://t.co/CECoSMuNkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017203252736196882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔，谁还记得她 https://t.co/CECoSMuNkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo\nHrt日期26.01.12|11年的药药|无心理疾病|不割手手不涩涩|175cm(有点高好烦恼)|60kg|梦想是有吃不完的糖和一台电脑|有点社恐|INFP|爱玩游戏|\n平时会发一些日常和游戏之类的捏，偶尔女装。\n跨跨帮跨跨，有问题可发邮件至3810725172@qq.com哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://www.x.com",
+                "start": 0,
+                "url": "https://t.co/69aJorW6hu"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China",
+        "name": "TixItem4527🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 69,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/69aJorW6hu",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

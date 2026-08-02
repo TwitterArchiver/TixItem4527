@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2067566540023837088",
+    "created_at": "2026-06-18T11:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067566540023837088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2034741496260579328",
+          "start": 3,
+          "username": "SoraSnezhnaya"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A blog about technology, design and startups from a designer who codes.",
+          "display_url": "paulstamatiou.com",
+          "end": 139,
+          "expanded_url": "http://paulstamatiou.com",
+          "start": 125,
+          "status": 200,
+          "title": "Paul Stamatiou",
+          "unwound_url": "https://paulstamatiou.com/",
+          "url": "https://t.co/p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067566540023837088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067250651264926146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SoraSnezhnaya: I don't remember the original artist, but this image has represented me for several years...\n\nIt hurts me https://t.co/p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067250647527829505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBZgtuXsAEHNm_.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2067566540023837088",
+        "created_at": "2026-06-18T11:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067566540023837088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2034741496260579328",
+              "start": 3,
+              "username": "SoraSnezhnaya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A blog about technology, design and startups from a designer who codes.",
+              "display_url": "paulstamatiou.com",
+              "end": 139,
+              "expanded_url": "http://paulstamatiou.com",
+              "start": 125,
+              "status": 200,
+              "title": "Paul Stamatiou",
+              "unwound_url": "https://paulstamatiou.com/",
+              "url": "https://t.co/p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067566540023837088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067250651264926146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SoraSnezhnaya: I don't remember the original artist, but this image has represented me for several years...\n\nIt hurts me https://t.co/p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067250647527829505"
+          ]
+        },
+        "author_id": "2034741496260579328",
+        "conversation_id": "2067250651264926146",
+        "created_at": "2026-06-17T14:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067250651264926146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGiryGBoiU",
+              "end": 129,
+              "expanded_url": "https://x.com/SoraSnezhnaya/status/2067250651264926146/photo/1",
+              "media_key": "3_2067250647527829505",
+              "start": 106,
+              "url": "https://t.co/pGiryGBoiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067250651264926146",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1342,
+          "impression_count": 70888,
+          "like_count": 7642,
+          "quote_count": 22,
+          "reply_count": 32,
+          "retweet_count": 620
+        },
+        "reply_settings": "everyone",
+        "text": "I don't remember the original artist, but this image has represented me for several years...\n\nIt hurts me https://t.co/pGiryGBoiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 711,
+          "like_count": 1780,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T21:19:26.000Z",
+        "description": "Aprendí de ti el motivo por el que nací, y me diste un corazón, por eso me entrego a ti, no dejare que mueras, viviremos juntos, aschento.",
+        "id": "2034741496260579328",
+        "location": "Disboard",
+        "name": "Sora Snezhnaya 🐾🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044952306492252160/nRUYDVxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 13,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 74
+        },
+        "username": "SoraSnezhnaya",
+        "verified": false
+      }
+    ]
+  }
+}

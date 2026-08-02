@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2074069077279363384",
+    "created_at": "2026-07-06T16:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074168446011728016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827958813603102720",
+          "start": 0,
+          "username": "lckmtfdesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074168446011728016",
+    "in_reply_to_user_id": "1827958813603102720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074069077279363384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lckmtfdesu xm喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_2074069067766599680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiS1AfakAA6xX4.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2074069077279363384",
+        "created_at": "2026-07-06T16:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074168446011728016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074168446011728016",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074069077279363384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu xm喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074069067766599680"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2074069077279363384",
+        "created_at": "2026-07-06T09:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074069077279363384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2HTetK1eO",
+              "end": 51,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2074069077279363384/photo/1",
+              "media_key": "3_2074069067766599680",
+              "start": 28,
+              "url": "https://t.co/i2HTetK1eO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074069077279363384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1510,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✋😭🤚我不活了\n什么叫做我还没有群里戴平板锁的大😨😰😡 https://t.co/i2HTetK1eO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "瓜雅泊，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 1159,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1393
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 1387,
+          "like_count": 6712,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      }
+    ]
+  }
+}

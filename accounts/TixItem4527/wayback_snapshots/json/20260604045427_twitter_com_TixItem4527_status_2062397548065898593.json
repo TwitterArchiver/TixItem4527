@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2062107979898655116",
+    "created_at": "2026-06-04T04:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062397548065898593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        },
+        {
+          "end": 25,
+          "id": "2040798583440527360",
+          "start": 14,
+          "username": "longyvling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062397548065898593",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062107979898655116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo @longyvling 晚安喵……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2062107979898655116",
+        "created_at": "2026-06-04T04:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062397548065898593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            },
+            {
+              "end": 25,
+              "id": "2040798583440527360",
+              "start": 14,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062397548065898593",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062107979898655116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo @longyvling 晚安喵……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027280531097088000",
+        "conversation_id": "2062107979898655116",
+        "created_at": "2026-06-03T09:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062107979898655116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062107979898655116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5593,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜 无限期退出互联网 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 628,
+          "like_count": 1627,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 2011/10/27崭新出厂（mtf ｜主人@UnkMtX\n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19 小号@Lvmaosamaqwq\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "UnkMtX"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "Lvmaosamaqwq"
+              }
+            ]
+          }
+        },
+        "id": "2027280531097088000",
+        "location": "上海精神卫生中心",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 335,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 735
+        },
+        "username": "Lvmaosamaovo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 115,
+          "like_count": 1079,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 317
+        },
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}

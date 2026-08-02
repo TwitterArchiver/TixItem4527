@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061804253136781312",
+        "3_2061804253229031424"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2061804331821867053",
+    "created_at": "2026-06-02T13:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061804331821867053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "https://m.yangshipin.cn/portrait_video?vid=i0000983qgb （央视频号：总台电视资讯）, 视频播放量 905027、弹幕量 6121、点赞数 38674、投硬币枚数 2276、收藏人数 20992、转发人数 7581, 视频作者 央视频, 作者简介 有品质，更轻松。关注我，让频频离你再近一点！ 投稿邮箱：ysptougao@yangshipin.cn，相关视频：问题猪肉做成校园营养餐！校园食品安全问题何时休？，校园食堂，不能在学生和家长的红线上蹦迪！，现实版教父！日本为何转向南海拉拢菲律宾，给他们留着了！那是他们侵华的罪证！，日本公关费花哪了？B站网友的线索帮我找到真相！，每天一杯奶茶，血液竟会变成乳白色？，联播一瞬 | 74年，不灭的英雄荣光！向志愿军老兵致敬，“没头脑”“不高兴”之父任溶溶逝世 享年100岁，那些每一帧都是艺术品的国产动画 ，哪部是你的童年回忆？，“再闯”美国生物实验室！“病毒狂人”竟是预言家？｜溯源美国",
+          "display_url": "b23.tv/g75iqD9",
+          "end": 59,
+          "expanded_url": "https://b23.tv/g75iqD9",
+          "start": 36,
+          "status": 200,
+          "title": "未成年人沉迷于“AI拼接怪兽” 警惕！_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV12xBUBVEJP/?-Arouter=story&buvid=XUBE6B2B28B48E235E4F384C5A169EFE29F65&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=BXxWgsfmqH%2BmYWCuSPbfE38FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=ac21bf7d-1f51-4d12-8b3c-d0594215e345&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1780407392&unique_k=g75iqD9&up_id=433587902",
+          "url": "https://t.co/8g9X9e9YQo"
+        },
+        {
+          "display_url": "pic.x.com/vkkF0M2Ody",
+          "end": 83,
+          "expanded_url": "https://x.com/TixItem4527/status/2061804331821867053/photo/1",
+          "media_key": "3_2061804253136781312",
+          "start": 60,
+          "url": "https://t.co/vkkF0M2Ody"
+        },
+        {
+          "display_url": "pic.x.com/vkkF0M2Ody",
+          "end": 83,
+          "expanded_url": "https://x.com/TixItem4527/status/2061804331821867053/photo/1",
+          "media_key": "3_2061804253229031424",
+          "start": 60,
+          "url": "https://t.co/vkkF0M2Ody"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061804331821867053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主持人:轻松绷住\n【未成年人沉迷于“AI拼接怪兽” 警惕！-哔哩哔哩】 https://t.co/8g9X9e9YQo https://t.co/vkkF0M2Ody"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2061804253136781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0AC1ibgAA8cVg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2061804253229031424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0AC14bIAA0mCm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061804253136781312",
+            "3_2061804253229031424"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2061804331821867053",
+        "created_at": "2026-06-02T13:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061804331821867053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "https://m.yangshipin.cn/portrait_video?vid=i0000983qgb （央视频号：总台电视资讯）, 视频播放量 905027、弹幕量 6121、点赞数 38674、投硬币枚数 2276、收藏人数 20992、转发人数 7581, 视频作者 央视频, 作者简介 有品质，更轻松。关注我，让频频离你再近一点！ 投稿邮箱：ysptougao@yangshipin.cn，相关视频：问题猪肉做成校园营养餐！校园食品安全问题何时休？，校园食堂，不能在学生和家长的红线上蹦迪！，现实版教父！日本为何转向南海拉拢菲律宾，给他们留着了！那是他们侵华的罪证！，日本公关费花哪了？B站网友的线索帮我找到真相！，每天一杯奶茶，血液竟会变成乳白色？，联播一瞬 | 74年，不灭的英雄荣光！向志愿军老兵致敬，“没头脑”“不高兴”之父任溶溶逝世 享年100岁，那些每一帧都是艺术品的国产动画 ，哪部是你的童年回忆？，“再闯”美国生物实验室！“病毒狂人”竟是预言家？｜溯源美国",
+              "display_url": "b23.tv/g75iqD9",
+              "end": 59,
+              "expanded_url": "https://b23.tv/g75iqD9",
+              "start": 36,
+              "status": 200,
+              "title": "未成年人沉迷于“AI拼接怪兽” 警惕！_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV12xBUBVEJP/?-Arouter=story&buvid=XUBE6B2B28B48E235E4F384C5A169EFE29F65&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=BXxWgsfmqH%2BmYWCuSPbfE38FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=ac21bf7d-1f51-4d12-8b3c-d0594215e345&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1780407392&unique_k=g75iqD9&up_id=433587902",
+              "url": "https://t.co/8g9X9e9YQo"
+            },
+            {
+              "display_url": "pic.x.com/vkkF0M2Ody",
+              "end": 83,
+              "expanded_url": "https://x.com/TixItem4527/status/2061804331821867053/photo/1",
+              "media_key": "3_2061804253136781312",
+              "start": 60,
+              "url": "https://t.co/vkkF0M2Ody"
+            },
+            {
+              "display_url": "pic.x.com/vkkF0M2Ody",
+              "end": 83,
+              "expanded_url": "https://x.com/TixItem4527/status/2061804331821867053/photo/1",
+              "media_key": "3_2061804253229031424",
+              "start": 60,
+              "url": "https://t.co/vkkF0M2Ody"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061804331821867053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主持人:轻松绷住\n【未成年人沉迷于“AI拼接怪兽” 警惕！-哔哩哔哩】 https://t.co/8g9X9e9YQo https://t.co/vkkF0M2Ody"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 627,
+          "like_count": 1619,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

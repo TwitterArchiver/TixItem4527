@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2072004540900184084",
+    "created_at": "2026-07-02T03:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072519411395928524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767040816986656768",
+          "start": 0,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072519411395928524",
+    "in_reply_to_user_id": "1767040816986656768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072004540900184084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeviuslX_Xl 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2072004540900184084",
+        "created_at": "2026-07-02T03:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072519411395928524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072519411395928524",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072004540900184084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767040816986656768",
+        "conversation_id": "2072004540900184084",
+        "created_at": "2026-06-30T17:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072004540900184084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072004540900184084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 14764,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "前两天跟高中时期的闺蜜聊天，她因为她家里极其严重的重男轻女导致自己彻底不想做女生了，现在剪了短发，准备开始注射睾酮了\n一些陋习真的什么时候才能完全消失啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "北方阵线控制区，瓜雅泊，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 985,
+          "like_count": 2340,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "一只邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜小梅我最爱的酸汤面姐姐大人@wang3289 ｜有点腹黑毒舌，但是很好相处｜在姐姐的帮助下走出了曾经的痛苦，逐渐开朗！！！｜最后……这里有提问箱可以问小梅任何问题哦～⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "wang3289"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meviuslx_xl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meviuslx_xl",
+                "start": 0,
+                "url": "https://t.co/yK6TFzsZWk"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "魔王城",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "pinned_tweet_id": "2009992139284066816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098651299581952/LUPlmVG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12649,
+          "following_count": 1036,
+          "like_count": 18492,
+          "listed_count": 26,
+          "media_count": 1063,
+          "tweet_count": 8716
+        },
+        "url": "https://t.co/yK6TFzsZWk",
+        "username": "MeviuslX_Xl",
+        "verified": false
+      }
+    ]
+  }
+}

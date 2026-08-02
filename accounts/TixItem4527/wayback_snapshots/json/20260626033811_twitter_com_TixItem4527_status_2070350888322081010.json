@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2070318096406176082",
+    "created_at": "2026-06-26T03:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070350888322081010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1837080760190390272",
+          "start": 0,
+          "username": "Ro34115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070350888322081010",
+    "in_reply_to_user_id": "1837080760190390272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070318096406176082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ro34115 初中嘛，原來是同齡同類！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2070318000306356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs_QJRbgAApsJ4.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2070318051577544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs_TIRbwAAV2qp.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2070318080111329280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs_UykawAAK-of.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2070318096406176082",
+        "created_at": "2026-06-26T03:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070350888322081010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1837080760190390272",
+              "start": 0,
+              "username": "Ro34115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070350888322081010",
+        "in_reply_to_user_id": "1837080760190390272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070318096406176082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ro34115 初中嘛，原來是同齡同類！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070318000306356224",
+            "3_2070318051577544704",
+            "3_2070318080111329280"
+          ]
+        },
+        "author_id": "1837080760190390272",
+        "conversation_id": "2070318096406176082",
+        "created_at": "2026-06-26T01:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070318096406176082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itT1TGTPHI",
+              "end": 29,
+              "expanded_url": "https://x.com/Ro34115/status/2070318096406176082/photo/1",
+              "media_key": "3_2070318000306356224",
+              "start": 6,
+              "url": "https://t.co/itT1TGTPHI"
+            },
+            {
+              "display_url": "pic.x.com/itT1TGTPHI",
+              "end": 29,
+              "expanded_url": "https://x.com/Ro34115/status/2070318096406176082/photo/1",
+              "media_key": "3_2070318051577544704",
+              "start": 6,
+              "url": "https://t.co/itT1TGTPHI"
+            },
+            {
+              "display_url": "pic.x.com/itT1TGTPHI",
+              "end": 29,
+              "expanded_url": "https://x.com/Ro34115/status/2070318096406176082/photo/1",
+              "media_key": "3_2070318080111329280",
+              "start": 6,
+              "url": "https://t.co/itT1TGTPHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070318096406176082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业了啊嗯 https://t.co/itT1TGTPHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:(被封了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 837,
+          "like_count": 2056,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T10:46:28.000Z",
+        "description": "mtf🏳️‍⚧️ | 无证含糖中ing | 年龄党（） | 思诺思重度依赖 | 社恐 but 欢迎找我聊天喵 | 你要把炽热炽热目光蒸发",
+        "id": "1837080760190390272",
+        "name": ".txt🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061067452226957312/vWuPoFKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 48,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Ro34115",
+        "verified": true
+      }
+    ]
+  }
+}

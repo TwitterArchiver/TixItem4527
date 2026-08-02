@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047674584934346752",
+        "3_2047674584942710784"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2047674740991733964",
+    "created_at": "2026-04-24T13:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047674740991733964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TVtNUDkkRI",
+          "end": 55,
+          "expanded_url": "https://x.com/TixItem4527/status/2047674740991733964/photo/1",
+          "media_key": "3_2047674584934346752",
+          "start": 32,
+          "url": "https://t.co/TVtNUDkkRI"
+        },
+        {
+          "display_url": "pic.x.com/TVtNUDkkRI",
+          "end": 55,
+          "expanded_url": "https://x.com/TixItem4527/status/2047674740991733964/photo/1",
+          "media_key": "3_2047674584942710784",
+          "start": 32,
+          "url": "https://t.co/TVtNUDkkRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047674740991733964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人发现暗区现在的加载背景图很适合用来当主页背景或者横屏壁纸吗 https://t.co/TVtNUDkkRI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047674584934346752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrNL5qbcAA3VXT.jpg",
+        "width": 2408
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2047674584942710784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrNL5sbEAAlrOO.jpg",
+        "width": 2408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047674584934346752",
+            "3_2047674584942710784"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2047674740991733964",
+        "created_at": "2026-04-24T13:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047674740991733964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVtNUDkkRI",
+              "end": 55,
+              "expanded_url": "https://x.com/TixItem4527/status/2047674740991733964/photo/1",
+              "media_key": "3_2047674584934346752",
+              "start": 32,
+              "url": "https://t.co/TVtNUDkkRI"
+            },
+            {
+              "display_url": "pic.x.com/TVtNUDkkRI",
+              "end": 55,
+              "expanded_url": "https://x.com/TixItem4527/status/2047674740991733964/photo/1",
+              "media_key": "3_2047674584942710784",
+              "start": 32,
+              "url": "https://t.co/TVtNUDkkRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047674740991733964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人发现暗区现在的加载背景图很适合用来当主页背景或者横屏壁纸吗 https://t.co/TVtNUDkkRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.chinadlrs.com/?id=0",
+                "end": 23,
+                "expanded_url": "https://m.chinadlrs.com/?id=0",
+                "start": 0,
+                "url": "https://t.co/qfiD1C9uNS"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 470,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/qfiD1C9uNS",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

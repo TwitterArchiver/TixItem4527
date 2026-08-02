@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2078509464010015110",
+    "created_at": "2026-07-19T18:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078909642336502112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807044386104238080",
+          "start": 0,
+          "username": "cishenfeiwoyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078909642336502112",
+    "in_reply_to_user_id": "1807044386104238080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078509464010015110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishenfeiwoyou 摸摸……可能是帖子不小心滑进某些顺直的时间线里被看到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2078509464010015110",
+        "created_at": "2026-07-19T18:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078909642336502112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807044386104238080",
+              "start": 0,
+              "username": "cishenfeiwoyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078909642336502112",
+        "in_reply_to_user_id": "1807044386104238080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078509464010015110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishenfeiwoyou 摸摸……可能是帖子不小心滑进某些顺直的时间线里被看到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807044386104238080",
+        "conversation_id": "2078509464010015110",
+        "created_at": "2026-07-18T15:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078509464010015110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078509464010015110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5661,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "私信收到好多关于跨性别仇视言论…非常极端\n说实话我不知道我错在哪…我明明就在好好生活，努力上班，对每个人都很友好…怎么到他们嘴里就成危害社会，存在就是不应该，就是该死的一个人了…\n我只是和别人有点不一样啊…人和人之间真的要因为这一点不同就仇视成这样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 1215,
+          "like_count": 3235,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ☯东方厨Ⅰ爱听摇滚\n\n妹妹@fufumiaoQxQ_\n姐姐@xinxin9277",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "fufumiaoQxQ_"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xinxin9277"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2057509897865236830/Tl6ZU7qDhP",
+                "start": 0,
+                "url": "https://t.co/QLZP6F4RRJ"
+              }
+            ]
+          }
+        },
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984705942404153347/0SVgBT98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 956,
+          "like_count": 794,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/QLZP6F4RRJ",
+        "username": "cishenfeiwoyou",
+        "verified": true
+      }
+    ]
+  }
+}

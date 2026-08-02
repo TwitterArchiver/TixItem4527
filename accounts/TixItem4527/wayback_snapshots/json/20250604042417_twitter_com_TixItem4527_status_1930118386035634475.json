@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "1925462391355318343",
+    "created_at": "2025-06-04T04:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T05:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930118386035634475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1047053292587638786",
+          "start": 0,
+          "username": "Jerry00107966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930118386035634475",
+    "in_reply_to_user_id": "1047053292587638786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925462391355318343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerry00107966 乐子还拿你那马上当海底小纵队的伪政权叫嚣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_1925462383067373571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grid1fsboAMIxL_.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "1925462391355318343",
+        "created_at": "2025-06-04T04:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T05:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930118386035634475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1047053292587638786",
+              "start": 0,
+              "username": "Jerry00107966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930118386035634475",
+        "in_reply_to_user_id": "1047053292587638786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925462391355318343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerry00107966 乐子还拿你那马上当海底小纵队的伪政权叫嚣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925462383067373571"
+          ]
+        },
+        "author_id": "1047053292587638786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1925462391355318343",
+        "created_at": "2025-05-22T08:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925462391355318343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slhiYJGkIe",
+              "end": 30,
+              "expanded_url": "https://x.com/Jerry00107966/status/1925462391355318343/photo/1",
+              "media_key": "3_1925462383067373571",
+              "start": 7,
+              "url": "https://t.co/slhiYJGkIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925462391355318343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 58738,
+          "like_count": 361,
+          "quote_count": 8,
+          "reply_count": 111,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "习近平敢吗？ https://t.co/slhiYJGkIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "This is not BIO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.twitter.com",
+                "start": 0,
+                "url": "https://t.co/fmtpFOSZoQ"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-Jiangxi-Ganzhou",
+        "name": "TixItem4527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760832507455422464/95bOKZGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/fmtpFOSZoQ",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T09:18:53.000Z",
+        "description": "推荐：请关注推特最大中文群《自由中国》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1670509573885825026",
+                "start": 0,
+                "url": "https://t.co/2WWGKZ3Epy"
+              }
+            ]
+          }
+        },
+        "id": "1047053292587638786",
+        "location": "Australia",
+        "name": "悉尼閑人",
+        "pinned_tweet_id": "1423889270754840579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421761336371924993/ilIAdLkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126145,
+          "following_count": 2768,
+          "like_count": 137102,
+          "listed_count": 480,
+          "media_count": 22827,
+          "tweet_count": 72797
+        },
+        "url": "https://t.co/2WWGKZ3Epy",
+        "username": "Jerry00107966",
+        "verified": true
+      }
+    ]
+  }
+}

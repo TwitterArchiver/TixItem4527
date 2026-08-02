@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2073727914399658069",
+    "created_at": "2026-07-05T11:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073727914399658069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066161725322526720",
+          "start": 0,
+          "username": "MTFitness6780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073727914399658069",
+    "in_reply_to_user_id": "2066161725322526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@MTFitness6780 如果泥看到这条帖子请回关我！很抱歉这么久才看到你的邮件！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2073727914399658069",
+        "created_at": "2026-07-05T11:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073727914399658069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066161725322526720",
+              "start": 0,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073727914399658069",
+        "in_reply_to_user_id": "2066161725322526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@MTFitness6780 如果泥看到这条帖子请回关我！很抱歉这么久才看到你的邮件！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "低能电力区，卡陇南以，克格莫斯弗兰堪奇，AWALON",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1120,
+          "like_count": 2663,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T14:18:33.000Z",
+        "description": "",
+        "id": "2066161725322526720",
+        "name": "素風motofu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 61,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "MTFitness6780",
+        "verified": false
+      }
+    ]
+  }
+}

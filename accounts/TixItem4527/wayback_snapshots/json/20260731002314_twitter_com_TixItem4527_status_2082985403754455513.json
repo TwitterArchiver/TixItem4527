@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2082164470827352175",
+    "created_at": "2026-07-31T00:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082985403754455513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082985403754455513",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082164470827352175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢关注，消息原主回复了，没有送进戒同所进了正规三甲医院🏥，过几天就出院了，这是好事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2082164451986513920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVViYyaIAAoM_N.jpg",
+        "width": 1077
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082164462241656832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVVi-_bMAAJldC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2082164470827352175",
+        "created_at": "2026-07-31T00:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082985403754455513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082985403754455513",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082164470827352175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢关注，消息原主回复了，没有送进戒同所进了正规三甲医院🏥，过几天就出院了，这是好事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082164451986513920",
+            "3_2082164462241656832"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2082164470827352175",
+        "created_at": "2026-07-28T18:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082164470827352175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkygJnLSl6",
+              "end": 93,
+              "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+              "media_key": "3_2082164451986513920",
+              "start": 70,
+              "url": "https://t.co/VkygJnLSl6"
+            },
+            {
+              "display_url": "pic.x.com/VkygJnLSl6",
+              "end": 93,
+              "expanded_url": "https://x.com/TixItem4527/status/2082164470827352175/photo/1",
+              "media_key": "3_2082164462241656832",
+              "start": 70,
+              "url": "https://t.co/VkygJnLSl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082164470827352175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11746,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 121,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "天津汉沽，有位11岁的同类将要被其母送去戒同所了有附近的同类来救一下吗，说是打算偷1wCNY逃出家来，有没有同类能够接一下(急)\n#mtf https://t.co/VkygJnLSl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 1273,
+          "like_count": 3660,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}
