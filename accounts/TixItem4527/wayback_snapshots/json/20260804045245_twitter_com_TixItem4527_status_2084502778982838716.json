@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084191178510233703",
+    "created_at": "2026-08-04T04:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084502778982838716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1824961740930445313",
+          "start": 0,
+          "username": "naixu_ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084502778982838716",
+    "in_reply_to_user_id": "1824961740930445313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084191178510233703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naixu_ye 摸摸……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084191166074064896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyI0rHaEAA1m4i.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084191178510233703",
+        "created_at": "2026-08-04T04:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084502778982838716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1824961740930445313",
+              "start": 0,
+              "username": "naixu_ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084502778982838716",
+        "in_reply_to_user_id": "1824961740930445313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084191178510233703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naixu_ye 摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084191166074064896"
+          ]
+        },
+        "author_id": "1824961740930445313",
+        "conversation_id": "2084191178510233703",
+        "created_at": "2026-08-03T08:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084191178510233703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRTnIumTFX",
+              "end": 48,
+              "expanded_url": "https://x.com/naixu_ye/status/2084191178510233703/photo/1",
+              "media_key": "3_2084191166074064896",
+              "start": 25,
+              "url": "https://t.co/LRTnIumTFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084191178510233703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2831,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常抱歉各位，最近精神状况十分糟糕，暂被强制住院 https://t.co/LRTnIumTFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1365,
+          "like_count": 3933,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T00:09:29.000Z",
+        "description": "//ODer一個/HRT11.11.24-28.12.24/10.10.25-至今//\n//不間斷發瘋/精神疾病 戰績可查//\n//maimai DX/太鼓達人/PJSK/中二//\n//幻想改變但消極主義//\n//人格不定/是樂子//\n//互of/不定時失蹤//\n找點有（意義/意思）的事做？╮⁠(⁠＾⁠▽⁠＾⁠)⁠╭",
+        "id": "1824961740930445313",
+        "location": "棺材",
+        "name": "奈緒IE🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070432459649662976/Mw-xkYYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 243,
+          "like_count": 95,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "naixu_ye",
+        "verified": false
+      }
+    ]
+  }
+}

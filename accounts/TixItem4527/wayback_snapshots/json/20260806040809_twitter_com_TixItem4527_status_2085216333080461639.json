@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085216313866354688",
+        "3_2085216324201136128"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084905326869193070",
+    "created_at": "2026-08-06T04:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085216333080461639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2023561829398835201",
+          "start": 0,
+          "username": "jcx3418"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0n3Z9BnhJV",
+          "end": 54,
+          "expanded_url": "https://x.com/TixItem4527/status/2085216333080461639/photo/1",
+          "media_key": "3_2085216313866354688",
+          "start": 31,
+          "url": "https://t.co/0n3Z9BnhJV"
+        },
+        {
+          "display_url": "pic.x.com/0n3Z9BnhJV",
+          "end": 54,
+          "expanded_url": "https://x.com/TixItem4527/status/2085216333080461639/photo/1",
+          "media_key": "3_2085216324201136128",
+          "start": 31,
+          "url": "https://t.co/0n3Z9BnhJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085216333080461639",
+    "in_reply_to_user_id": "2023561829398835201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084953142962073742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jcx3418 真tm被说中了这群低认知傻子去水印搬回来了 https://t.co/0n3Z9BnhJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2085216313866354688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAtMIPagAAsIfb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2085216324201136128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAtMuvawAAvyMT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085216313866354688",
+            "3_2085216324201136128"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084905326869193070",
+        "created_at": "2026-08-06T04:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085216333080461639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2023561829398835201",
+              "start": 0,
+              "username": "jcx3418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0n3Z9BnhJV",
+              "end": 54,
+              "expanded_url": "https://x.com/TixItem4527/status/2085216333080461639/photo/1",
+              "media_key": "3_2085216313866354688",
+              "start": 31,
+              "url": "https://t.co/0n3Z9BnhJV"
+            },
+            {
+              "display_url": "pic.x.com/0n3Z9BnhJV",
+              "end": 54,
+              "expanded_url": "https://x.com/TixItem4527/status/2085216333080461639/photo/1",
+              "media_key": "3_2085216324201136128",
+              "start": 31,
+              "url": "https://t.co/0n3Z9BnhJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085216333080461639",
+        "in_reply_to_user_id": "2023561829398835201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084953142962073742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jcx3418 真tm被说中了这群低认知傻子去水印搬回来了 https://t.co/0n3Z9BnhJV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023561829398835201",
+        "conversation_id": "2084905326869193070",
+        "created_at": "2026-08-05T10:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084953142962073742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953142962073742",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084905326869193070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 我觉得去个水印应该不是什么战略核心技术，尤其是在这个AI盛行的时代😲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1430,
+          "like_count": 4149,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T00:55:38.000Z",
+        "description": "我爱蓝发机娘",
+        "id": "2023561829398835201",
+        "name": "上冥轩",
+        "pinned_tweet_id": "2072313121952137436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048586870397775872/fetH7fiC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "jcx3418",
+        "verified": false
+      }
+    ]
+  }
+}

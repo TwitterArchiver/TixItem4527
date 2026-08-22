@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084702050164892140",
+    "created_at": "2026-08-05T08:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084915279839277477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299233902066692097",
+          "start": 0,
+          "username": "NekoSukiXoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084915279839277477",
+    "in_reply_to_user_id": "1299233902066692097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084702050164892140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoSukiXoX 抱抱……🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084702050164892140",
+        "created_at": "2026-08-05T08:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084915279839277477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299233902066692097",
+              "start": 0,
+              "username": "NekoSukiXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084915279839277477",
+        "in_reply_to_user_id": "1299233902066692097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084702050164892140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoSukiXoX 抱抱……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299233902066692097",
+        "conversation_id": "2084702050164892140",
+        "created_at": "2026-08-04T18:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084702050164892140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084702050164892140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 874,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么当时要给我救回来…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1401,
+          "like_count": 4064,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/水仙/深柜/MTF/酒蒙子/偶尔自残(确信)/不太敢鉴证/已累似/希望25岁前似掉/可互fo喔/匿名提问箱https://t.co/bEwcPWTArv\n恋人@Muchun_offical @NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Muchun_offical"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NekoSukiXoX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 128,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 105,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 0,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 431,
+          "like_count": 540,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/bEwcPWTArv",
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

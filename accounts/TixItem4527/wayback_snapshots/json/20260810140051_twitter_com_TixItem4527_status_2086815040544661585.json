@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2086443572681994546",
+    "created_at": "2026-08-10T14:00:51.000Z",
+    "display_text_range": [
+      29,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086815040544661585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        },
+        {
+          "end": 28,
+          "id": "2033116026410598400",
+          "start": 17,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086815040544661585",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086810118117826583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST @Irosas_xyn 我是死过难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2086443572681994546",
+        "created_at": "2026-08-10T14:00:51.000Z",
+        "display_text_range": [
+          29,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086815040544661585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            },
+            {
+              "end": 28,
+              "id": "2033116026410598400",
+              "start": 17,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086815040544661585",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086810118117826583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST @Irosas_xyn 我是死过难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684411421256466432",
+        "conversation_id": "2086443572681994546",
+        "created_at": "2026-08-10T13:41:17.000Z",
+        "display_text_range": [
+          25,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086810118117826583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            },
+            {
+              "end": 24,
+              "id": "2033116026410598400",
+              "start": 13,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086810118117826583",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086539302415269900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 @Irosas_xyn 你那么漂亮gd个蛋，我好喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息:https://t.co/xRZn1FJTQ8|家长不管党|Hrt:26.01.12|11.03.25|无心理疾病|不改不o|172cm|53kg|INFP|CNTK:tixitem4527|邮箱:430830097@qq.com|最爱的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527",
+                "end": 28,
+                "expanded_url": "http://ngl.link/tixitem4527",
+                "start": 5,
+                "url": "https://t.co/xRZn1FJTQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "is_identity_verified": false,
+        "location": "世界の樹",
+        "most_recent_tweet_id": "2086815040544661585",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708446662514110464/1786026224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 1524,
+          "like_count": 4447,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 39码 128斤(胖了)是一只可爱的128g固态硬盘😋/INFP/hrt2026.04/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "is_identity_verified": false,
+        "location": "天安门左边的中南海",
+        "most_recent_tweet_id": "2086813699956961408",
+        "name": "顾诗钿.🍥",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684411421256466432/1776431216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 142,
+          "like_count": 21680,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2664
+        },
+        "url": "",
+        "username": "xiaomeinuya_GST",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 119,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 96,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 143,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 120,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2086782651692925045",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033116026410598400/1782080137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 401,
+          "like_count": 1570,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

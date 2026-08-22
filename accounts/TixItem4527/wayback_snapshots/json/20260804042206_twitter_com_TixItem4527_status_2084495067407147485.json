@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084495011941634048"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084495067407147485",
+    "created_at": "2026-08-04T04:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084495067407147485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ctSIJSVsU",
+          "end": 42,
+          "expanded_url": "https://x.com/TixItem4527/status/2084495067407147485/video/1",
+          "media_key": "13_2084495011941634048",
+          "start": 19,
+          "url": "https://t.co/3ctSIJSVsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084495067407147485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "意外发现玩完异环的手机莫名有些流畅🤔 https://t.co/3ctSIJSVsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51521,
+        "height": 1280,
+        "media_key": "13_2084495011941634048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084495011941634048/img/SJRo2O75uwyQyU7q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084495011941634048/vid/avc1/320x710/yCYYVIQnuMMfCmMu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084495011941634048/vid/avc1/480x1066/O_F61dK4fwbgGOnH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084495011941634048/vid/avc1/576x1280/Nt2L0D6_No1v69Pj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084495011941634048/pl/rvYPPK0rOsmMnser.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084495011941634048"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084495067407147485",
+        "created_at": "2026-08-04T04:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084495067407147485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ctSIJSVsU",
+              "end": 42,
+              "expanded_url": "https://x.com/TixItem4527/status/2084495067407147485/video/1",
+              "media_key": "13_2084495011941634048",
+              "start": 19,
+              "url": "https://t.co/3ctSIJSVsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084495067407147485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意外发现玩完异环的手机莫名有些流畅🤔 https://t.co/3ctSIJSVsU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1336,
+          "like_count": 3911,
+          "listed_count": 3,
+          "media_count": 447,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

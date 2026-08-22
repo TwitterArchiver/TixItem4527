@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2085989528142327952",
+    "created_at": "2026-08-08T14:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T15:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086094023421538608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086094023421538608",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085989528142327952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazama_Nagi_ 恭喜喵🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2085989521557200896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLsavWaoAAM5lz.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2085989528142327952",
+        "created_at": "2026-08-08T14:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086094023421538608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086094023421538608",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085989528142327952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 恭喜喵🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085989521557200896"
+          ]
+        },
+        "author_id": "1781868776918790144",
+        "conversation_id": "2085989528142327952",
+        "created_at": "2026-08-08T07:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085989528142327952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NuOd9VMok",
+              "end": 44,
+              "expanded_url": "https://x.com/Kazama_Nagi_/status/2085989528142327952/photo/1",
+              "media_key": "3_2085989521557200896",
+              "start": 21,
+              "url": "https://t.co/8NuOd9VMok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085989528142327952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大家！\nnagi酱终于600fo啦！ https://t.co/8NuOd9VMok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息:https://t.co/xRZn1FJTQ8|家长不管党|Hrt:26.01.12|11.03.25|无心理疾病|不改不o|172cm|53kg|INFP|CNTK:tixitem4527|邮箱:430830097@qq.com|最爱的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527",
+                "end": 28,
+                "expanded_url": "http://ngl.link/tixitem4527",
+                "start": 5,
+                "url": "https://t.co/xRZn1FJTQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1502,
+          "like_count": 4354,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🍥2026/08/02 Sun\n🏫高中生（准确来讲应该是准高一，还没开学）\n❌无任何政治立场\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n5HBg"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "location": "Canada🇨🇦",
+        "name": "Kazama_Nagi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085044390649860161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 760,
+          "like_count": 1101,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/evOh4n5HBg",
+        "username": "Kazama_Nagi_",
+        "verified": false
+      }
+    ]
+  }
+}

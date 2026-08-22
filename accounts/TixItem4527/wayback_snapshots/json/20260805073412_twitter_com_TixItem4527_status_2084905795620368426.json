@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084649108766429184"
+      ],
+      "media_source_tweet_id": [
+        "2084649193952678342"
+      ]
+    },
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084905795620368426",
+    "created_at": "2026-08-05T07:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084905795620368426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1775149090881560580",
+          "start": 3,
+          "username": "LemonCandy_OvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3JRLgyedt",
+          "end": 66,
+          "expanded_url": "https://x.com/LemonCandy_OvO/status/2084649193952678342/photo/1",
+          "media_key": "3_2084649108766429184",
+          "start": 43,
+          "url": "https://t.co/h3JRLgyedt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084905795620368426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084649193952678342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LemonCandy_OvO: 好家伙，原来n55这么萌的嘛，以前怎么没发现 https://t.co/h3JRLgyedt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2084649108766429184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4pUclbkAAfGkB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084649108766429184"
+          ]
+        },
+        "author_id": "1775149090881560580",
+        "conversation_id": "2084649193952678342",
+        "created_at": "2026-08-04T14:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084649193952678342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3JRLgyedt",
+              "end": 46,
+              "expanded_url": "https://x.com/LemonCandy_OvO/status/2084649193952678342/photo/1",
+              "media_key": "3_2084649108766429184",
+              "start": 23,
+              "url": "https://t.co/h3JRLgyedt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084649193952678342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 495,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好家伙，原来n55这么萌的嘛，以前怎么没发现 https://t.co/h3JRLgyedt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084649108766429184"
+          ],
+          "media_source_tweet_id": [
+            "2084649193952678342"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084905795620368426",
+        "created_at": "2026-08-05T07:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084905795620368426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1775149090881560580",
+              "start": 3,
+              "username": "LemonCandy_OvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3JRLgyedt",
+              "end": 66,
+              "expanded_url": "https://x.com/LemonCandy_OvO/status/2084649193952678342/photo/1",
+              "media_key": "3_2084649108766429184",
+              "start": 43,
+              "url": "https://t.co/h3JRLgyedt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084905795620368426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084649193952678342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LemonCandy_OvO: 好家伙，原来n55这么萌的嘛，以前怎么没发现 https://t.co/h3JRLgyedt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1388,
+          "like_count": 4001,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年/无业/单身/ADHD/无证含糖mtf/高度近视/身高180/🚪30(同类免费)/pvz/mc/术力口/JK制服/喵斯，浮木已逝 qq:2198461644(需要过门槛) 老保们最严厉的母亲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "鱼板游戏",
+        "name": "柠檬味软糖_XYN喵🏳️‍⚧️🍥🍬🍭🎀",
+        "pinned_tweet_id": "2072684570021863750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116137294467072/NHAXk5gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 590,
+          "like_count": 412,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "LemonCandy_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

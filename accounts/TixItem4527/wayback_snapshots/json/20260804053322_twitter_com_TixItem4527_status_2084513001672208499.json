@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084081819457126780",
+    "created_at": "2026-08-04T05:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084513001672208499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1687503232573255680",
+          "start": 0,
+          "username": "54188why"
+        },
+        {
+          "end": 19,
+          "id": "1465701247021838341",
+          "start": 10,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084513001672208499",
+    "in_reply_to_user_id": "1687503232573255680",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084334863512195173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@54188why @show5560 3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 136,
+        "media_key": "3_2084334858697109504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0Lgr2a8AAweSi.jpg",
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084081819457126780",
+        "created_at": "2026-08-04T05:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084513001672208499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687503232573255680",
+              "start": 0,
+              "username": "54188why"
+            },
+            {
+              "end": 19,
+              "id": "1465701247021838341",
+              "start": 10,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084513001672208499",
+        "in_reply_to_user_id": "1687503232573255680",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084334863512195173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@54188why @show5560 3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084334858697109504"
+          ]
+        },
+        "author_id": "1687503232573255680",
+        "conversation_id": "2084081819457126780",
+        "created_at": "2026-08-03T17:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084334863512195173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gm76MgeE0",
+              "end": 40,
+              "expanded_url": "https://x.com/54188why/status/2084334863512195173/photo/1",
+              "media_key": "3_2084334858697109504",
+              "start": 17,
+              "url": "https://t.co/6gm76MgeE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084334863512195173",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7405,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084081819457126780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这个是中国人 https://t.co/6gm76MgeE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1374,
+          "like_count": 3966,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T16:38:54.000Z",
+        "description": "",
+        "id": "1687503232573255680",
+        "name": "摸鱼儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948332280407277568/tbVnbC-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "54188why",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 1736,
+          "like_count": 33663,
+          "listed_count": 14,
+          "media_count": 2760,
+          "tweet_count": 12779
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

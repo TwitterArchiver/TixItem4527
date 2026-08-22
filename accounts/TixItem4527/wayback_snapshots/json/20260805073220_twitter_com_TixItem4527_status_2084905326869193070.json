@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2084905326869193070",
+    "created_at": "2026-08-05T07:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084905326869193070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suekageseikiyo…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/suekageseikiyo/status/2084610213936865553",
+          "start": 143,
+          "url": "https://t.co/GI3ujfFJ8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084905326869193070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084610213936865553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位同类天才喵，因为最近有些傻逼花钱进x把以他们的认知里自认为逆天的帖子当瓜搬进墙内，于是她将国家领导人的名字水印铺满图片，帖子搬运时无法通过审核从而达到了防搬的目的。这个方法值得学习，发帖时如预感帖子内容会被搬运可效仿。我觉得还可在贴文内容下换行加入领导人名字防打码搬运\n[习近平] https://t.co/GI3ujfFJ8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084610204336029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4F76SagAAAU0e.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2084905326869193070",
+        "created_at": "2026-08-05T07:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084905326869193070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2084610213936865553",
+              "start": 143,
+              "url": "https://t.co/GI3ujfFJ8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084905326869193070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084610213936865553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位同类天才喵，因为最近有些傻逼花钱进x把以他们的认知里自认为逆天的帖子当瓜搬进墙内，于是她将国家领导人的名字水印铺满图片，帖子搬运时无法通过审核从而达到了防搬的目的。这个方法值得学习，发帖时如预感帖子内容会被搬运可效仿。我觉得还可在贴文内容下换行加入领导人名字防打码搬运\n[习近平] https://t.co/GI3ujfFJ8W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084610204336029696"
+          ]
+        },
+        "author_id": "1605093608910381056",
+        "conversation_id": "2084610213936865553",
+        "created_at": "2026-08-04T11:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:20:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084600432127852584",
+          "2084610213936865553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nx51Xiunh4",
+              "end": 66,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2084610213936865553/photo/1",
+              "media_key": "3_2084610204336029696",
+              "start": 43,
+              "url": "https://t.co/Nx51Xiunh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084610213936865553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 85424,
+          "like_count": 579,
+          "quote_count": 6,
+          "reply_count": 244,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "咱从医院开的三管爱斯妥用完了。\n妈妈回家从兜里掏出来两盒补佳乐给咱，呜呜呜妈妈真好😭 https://t.co/Nx51Xiunh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1383,
+          "like_count": 3997,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 592,
+          "like_count": 8086,
+          "listed_count": 7,
+          "media_count": 168,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true
+      }
+    ]
+  }
+}

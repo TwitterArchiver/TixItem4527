@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2084936402391994876",
+    "created_at": "2026-08-06T03:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085201981644447908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1875960927746691072",
+          "start": 0,
+          "username": "ZemingLiu51015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085201981644447908",
+    "in_reply_to_user_id": "1875960927746691072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084936402391994876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZemingLiu51015 xmrle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 531,
+        "media_key": "3_2084936396805201920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8umz7bYAAW1c0.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2084936402391994876",
+        "created_at": "2026-08-06T03:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085201981644447908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1875960927746691072",
+              "start": 0,
+              "username": "ZemingLiu51015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085201981644447908",
+        "in_reply_to_user_id": "1875960927746691072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084936402391994876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZemingLiu51015 xmrle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084936396805201920"
+          ]
+        },
+        "author_id": "1875960927746691072",
+        "conversation_id": "2084936402391994876",
+        "created_at": "2026-08-05T09:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084936402391994876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgEOd1Av2o",
+              "end": 50,
+              "expanded_url": "https://x.com/ZemingLiu51015/status/2084936402391994876/photo/1",
+              "media_key": "3_2084936396805201920",
+              "start": 27,
+              "url": "https://t.co/jgEOd1Av2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084936402391994876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 29456,
+          "like_count": 421,
+          "quote_count": 2,
+          "reply_count": 87,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目前女装高铁rle已为日常，毫无心理压力）（开森～） https://t.co/jgEOd1Av2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1417,
+          "like_count": 4116,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T17:42:04.000Z",
+        "description": "🏳️‍⚧️mtf/小证含糖/家长党/目前重抑重焦已康复（喜）/不od（已戒）不割手不鉴证/喜欢发癫/偶尔（？）随机掉落涩涩cg/音游吃/ba二档摆烂人/爱听HARDCORE/想学弹钢琴和编曲/曲师pikasonic铁粉/欢迎同类互fo🥰/好想减肥（呜呜）\n欢迎灌注小号呀宝子们@kawayiibenben❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "kawayiibenben"
+              }
+            ]
+          }
+        },
+        "id": "1875960927746691072",
+        "location": "雌二醇天堂",
+        "name": "可耐的笨笨🍥（色商）",
+        "pinned_tweet_id": "2074807925395362185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889115918586023936/oYAatzKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 155,
+          "like_count": 1580,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "ZemingLiu51015",
+        "verified": false
+      }
+    ]
+  }
+}

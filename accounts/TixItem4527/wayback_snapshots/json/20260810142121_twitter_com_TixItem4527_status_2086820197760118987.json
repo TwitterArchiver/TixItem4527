@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2086775427029422343",
+    "created_at": "2026-08-10T14:21:21.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086820197760118987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086820197760118987",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086775427029422343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 摸摸啦……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2086775427029422343",
+        "created_at": "2026-08-10T14:21:21.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086820197760118987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086820197760118987",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086775427029422343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 摸摸啦……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719571122642161664",
+        "conversation_id": "2086775427029422343",
+        "created_at": "2026-08-10T11:23:26.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086775427029422343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086775427029422343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过完生日好无聊呜呜呜呜呜，谁陪我聊天啊喂……有意私聊我ww"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息:https://t.co/xRZn1FJTQ8|家长不管党|Hrt:26.01.12|11.03.25|无心理疾病|不改不o|172cm|53kg|INFP|CNTK:tixitem4527|邮箱:430830097@qq.com|最爱的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527",
+                "end": 28,
+                "expanded_url": "http://ngl.link/tixitem4527",
+                "start": 5,
+                "url": "https://t.co/xRZn1FJTQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "is_identity_verified": false,
+        "location": "世界の樹",
+        "most_recent_tweet_id": "2086820197760118987",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708446662514110464/1786026224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1529,
+          "like_count": 4452,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "小号 @AGeCat2008｜姐姐 @Anan628769｜可爱小猫 @C_baba_66ccff｜可爱凛喵 @MTXRin_2nd｜可爱小晟 @Lynra114514｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Anan628769"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "C_baba_66ccff"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "MTXRin_2nd"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Lynra114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "is_identity_verified": false,
+        "location": "中国上海",
+        "most_recent_tweet_id": "2086788586343682487",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061728007040208922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719571122642161664/1732270179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745026618953728/-KrRTPp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 1339,
+          "like_count": 197,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 6941
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

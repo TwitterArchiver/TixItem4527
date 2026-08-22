@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2085191045386817816",
+    "created_at": "2026-08-08T00:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T01:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085879557220139222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580456162050584577",
+          "start": 0,
+          "username": "chushouplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085879557220139222",
+    "in_reply_to_user_id": "1580456162050584577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085764801364684857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chushouplay 嗯嗯可以试试，听说有效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2085191045386817816",
+        "created_at": "2026-08-08T00:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T01:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085879557220139222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580456162050584577",
+              "start": 0,
+              "username": "chushouplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085879557220139222",
+        "in_reply_to_user_id": "1580456162050584577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085764801364684857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chushouplay 嗯嗯可以试试，听说有效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580456162050584577",
+        "conversation_id": "2085191045386817816",
+        "created_at": "2026-08-07T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085764801364684857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085764801364684857",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085366554901057537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 em，防晒宅家有点难了（）\n美白丸或许可以试试(｡•﹃•｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|53kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 1487,
+          "like_count": 4307,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:11:58.000Z",
+        "description": "175/50kg，xyn。mtf🏳️‍⚧️｜无证含🍥中｜HRT🍥：26.3.21 ｜不od（没药），感觉死亡无所谓了，死了得了，sb工作，sb原生家庭\n价格合适的话pg卖就卖吧，比这sb班要强",
+        "id": "1580456162050584577",
+        "name": "精灵_Elf🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 78,
+          "like_count": 449,
+          "listed_count": 7,
+          "media_count": 91,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "chushouplay",
+        "verified": true
+      }
+    ]
+  }
+}

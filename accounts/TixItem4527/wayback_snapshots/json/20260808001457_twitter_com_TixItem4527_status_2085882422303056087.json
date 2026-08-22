@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2085191045386817816",
+    "created_at": "2026-08-08T00:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T01:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085882422303056087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818507519024939009",
+          "start": 0,
+          "username": "halinve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085882422303056087",
+    "in_reply_to_user_id": "1818507519024939009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085589702913278207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halinve 谢谢()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2085191045386817816",
+        "created_at": "2026-08-08T00:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T01:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085882422303056087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818507519024939009",
+              "start": 0,
+              "username": "halinve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085882422303056087",
+        "in_reply_to_user_id": "1818507519024939009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085589702913278207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halinve 谢谢()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818507519024939009",
+        "conversation_id": "2085191045386817816",
+        "created_at": "2026-08-07T04:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085589702913278207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085589702913278207",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085191045386817816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 没有丝袜也很可爱吖～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|53kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1489,
+          "like_count": 4315,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:42:58.000Z",
+        "description": "这里是来自虚拟世界的猫猫小晗喵～\n聊天群：978337257│12岁 136cm 36kg│希望不要尝试打探任何现实中的信息谢谢wu～平时大多在墙内活跃，自己不常用推，但是希望可以给大家带来温暖快乐呐。不开心都可以来找小晗www，小晗会陪着大家哒",
+        "id": "1818507519024939009",
+        "location": "冥河所圈画出来的孤岛",
+        "name": "晗零峰喵～",
+        "pinned_tweet_id": "2085435728134295725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083236561018355712/YwuSmTkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 189,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "halinve",
+        "verified": false
+      }
+    ]
+  }
+}

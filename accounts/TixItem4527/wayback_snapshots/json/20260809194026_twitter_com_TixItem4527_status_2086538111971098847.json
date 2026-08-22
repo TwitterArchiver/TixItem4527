@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2086278541931630627",
+    "created_at": "2026-08-09T19:40:26.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086538111971098847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064870849493237760",
+          "start": 0,
+          "username": "HsiaoChiLaowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086538111971098847",
+    "in_reply_to_user_id": "2064870849493237760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086432083044716656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsiaoChiLaowang 绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2086278541931630627",
+        "created_at": "2026-08-09T19:40:26.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086538111971098847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064870849493237760",
+              "start": 0,
+              "username": "HsiaoChiLaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086538111971098847",
+        "in_reply_to_user_id": "2064870849493237760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086432083044716656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsiaoChiLaowang 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064870849493237760",
+        "conversation_id": "2086278541931630627",
+        "created_at": "2026-08-09T12:39:07.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086432083044716656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086432083044716656",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086278541931630627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 坐和放寬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息:https://t.co/xRZn1FJTQ8|家长不管党|Hrt:26.01.12|11.03.25|无心理疾病|不改不o|172cm|53kg|INFP|CNTK:tixitem4527|邮箱:430830097@qq.com|最爱的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527",
+                "end": 28,
+                "expanded_url": "http://ngl.link/tixitem4527",
+                "start": 5,
+                "url": "https://t.co/xRZn1FJTQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "is_identity_verified": false,
+        "location": "世界の樹",
+        "most_recent_tweet_id": "2086538111971098847",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708446662514110464/1786026224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1519,
+          "like_count": 4411,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T00:55:21.000Z",
+        "description": "喵嗚？關注老王喵關注老王謝謝喵⋯線上原皮，線下高p！嗚⋯老王的日常？hrt1k+days的老必登mtf，一切捲土重來吧qwq老王是一隻可（圓）愛（頭）貓（耄）貓（耋）喔，時不時喵嗚（哈氣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/qGzMwCRMdQ"
+              }
+            ]
+          }
+        },
+        "id": "2064870849493237760",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2086454912054178227",
+        "name": "⁺✞ʚ老王重度依賴ɞ✟₊🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065005195013329252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064870849493237760/1783201511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079498709621260288/VAFB4ghu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 147,
+          "like_count": 744,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/qGzMwCRMdQ",
+        "username": "HsiaoChiLaowang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

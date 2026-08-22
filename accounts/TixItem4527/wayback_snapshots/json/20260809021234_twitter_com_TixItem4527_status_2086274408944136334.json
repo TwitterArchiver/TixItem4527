@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1708446662514110464",
+    "conversation_id": "2086000795527659861",
+    "created_at": "2026-08-09T02:12:34.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086274408944136334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882640316278464512",
+          "start": 0,
+          "username": "lanzuan3690"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086274408944136334",
+    "in_reply_to_user_id": "1882640316278464512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086000795527659861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanzuan3690 这印刷质量绝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086000766779867136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPL2pTEbQAANjFD.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2086000783305453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPL2qQobsAAPtKI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2086000795527659861",
+        "created_at": "2026-08-09T02:12:34.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086274408944136334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882640316278464512",
+              "start": 0,
+              "username": "lanzuan3690"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086274408944136334",
+        "in_reply_to_user_id": "1882640316278464512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086000795527659861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanzuan3690 这印刷质量绝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086000766779867136",
+            "3_2086000783305453568"
+          ]
+        },
+        "author_id": "1882640316278464512",
+        "conversation_id": "2086000795527659861",
+        "created_at": "2026-08-08T08:05:20.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086000795527659861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HVCHBEEQaa",
+              "end": 33,
+              "expanded_url": "https://x.com/lanzuan3690/status/2086000795527659861/photo/1",
+              "media_key": "3_2086000766779867136",
+              "start": 10,
+              "url": "https://t.co/HVCHBEEQaa"
+            },
+            {
+              "display_url": "pic.x.com/HVCHBEEQaa",
+              "end": 33,
+              "expanded_url": "https://x.com/lanzuan3690/status/2086000795527659861/photo/1",
+              "media_key": "3_2086000783305453568",
+              "start": 10,
+              "url": "https://t.co/HVCHBEEQaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086000795527659861",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086000766779867136"
+          },
+          {
+            "media_key": "3_2086000783305453568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 38623,
+          "like_count": 291,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "北京地铁还能定制水 https://t.co/HVCHBEEQaa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息:https://t.co/xRZn1FJTQ8|家长不管党|Hrt:26.01.12|11.03.25|无心理疾病|不改不o|172cm|53kg|INFP|CNTK:tixitem4527|邮箱:430830097@qq.com|最爱的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527",
+                "end": 28,
+                "expanded_url": "http://ngl.link/tixitem4527",
+                "start": 5,
+                "url": "https://t.co/xRZn1FJTQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "is_identity_verified": false,
+        "location": "世界の樹",
+        "most_recent_tweet_id": "2086274408944136334",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708446662514110464/1786026224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 1507,
+          "like_count": 4373,
+          "listed_count": 3,
+          "media_count": 467,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T04:03:57.000Z",
+        "description": "11年生产，hrt日期:2026 03 14，小证 含糖，ASD，只是染色体为Y的女孩子，半出柜 半家长党 天赋党，祖籍东北，重庆上学，可互fo，同时是global avation group(GAPphotos)航空摄影网站创始人之一\nhttps://t.co/D0hKwhCMqX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gapphotos.cn",
+                "end": 142,
+                "expanded_url": "https://www.gapphotos.cn/",
+                "start": 119,
+                "url": "https://t.co/D0hKwhCMqX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gapphotos.cn",
+                "end": 23,
+                "expanded_url": "https://www.gapphotos.cn/",
+                "start": 0,
+                "url": "https://t.co/D0hKwhCMqX"
+              }
+            ]
+          }
+        },
+        "id": "1882640316278464512",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086000795527659861",
+        "name": "蓝钻🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882640316278464512/1781864414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068628990747987968/Lwwo9Gpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 20,
+          "like_count": 165,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/D0hKwhCMqX",
+        "username": "lanzuan3690",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
